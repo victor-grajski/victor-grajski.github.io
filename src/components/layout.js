@@ -33,7 +33,14 @@ const Layout = props => {
                 <Link to={`/about`}>About</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+              <a
+                href="https://drive.google.com/file/d/1fBDf5K1Gn0kACPE53_2Syf__RBVO9OIi/view?usp=sharing"
+                title="Resume"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Resume
+              </a>
               </li>
             </ul>
           </nav>
@@ -45,29 +52,29 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.linkedin.com/in/victor-grajski/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                LinkedIn
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://github.com/victor-grajski"
+                title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                GitHub
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
+              <a
+                href="https://soundcloud.com/anima1a1a1a1"
+                title="SoundCloud"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
-              </Link>
+                SoundCloud
+              </a>
             </div>
           </div>
         </div>

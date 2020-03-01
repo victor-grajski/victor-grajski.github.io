@@ -13,42 +13,23 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+          <h2>
+            Hi, I'm Victor Grajski.
           </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
-            <Img
-              fluid={data.benchAccounting.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
-          </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
-          <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
-          </p>
-          <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p>
+          <p>I'm a Product Designer, musician, and a second-year MIMS student at the <a href="https://ischool.berkeley.edu" target="_blank">UC Berkeley School of Information</a>.</p>
+
+          <p>Through studying at Berkeley and interning at Apple as a software engineer on a product design team, I have fully realized my desire to be a Product Designer because I can bring my whole self 
+          into the product development process, from listening and empathizing with users to delivering 
+          polished, beautiful artifacts that address their pain points while maintaining feasibility and 
+          are mindful of business needs.</p>
+
+          <p>Before transitioning to Berkeley, I had the good fortune to work as a Product Manager at Graphiq and as a Knowledge Engineer on the Alexa team at Amazon by way of the Graphiq acquisition.</p>
+
+          <p>Outside of work, in addition to being a musician, I love to surf, snowboard, road bike, and swim. I occasionally run. Slowly. So you won't find me signing up for an Ironman anytime soon!</p>
         </div>
       </article>
     </Layout>

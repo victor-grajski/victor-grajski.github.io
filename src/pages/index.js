@@ -17,15 +17,16 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
+        title="Home"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
-          <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h2>
+          <h1 className="page-head-title">
+          Hi, I'm Victor Grajski.
+          </h1>
+          <h6>{data.site.siteMetadata.description}</h6>
         </header>
       )}
       <div className="post-feed">

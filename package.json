@@ -8,7 +8,8 @@
     "url": "https://github.com/ImedAdel/gatsby-london/issues"
   },
   "dependencies": {
-    "gatsby": "^2.4.2",
+    "bufferutil": "^4.0.1",
+    "gatsby": "^2.19.23",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
     "gatsby-plugin-google-analytics": "^2.0.19",
@@ -34,11 +35,15 @@
     "typeface-alegreya": "^0.0.69",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.54",
+    "typeface-muli": "^1.1.3",
     "typeface-nunito": "^0.0.72",
-    "url-join": "^4.0.0"
+    "typescript": "^3.8.3",
+    "url-join": "^4.0.0",
+    "utf-8-validate": "^5.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "gh-pages": "^2.2.0",
     "husky": "^2.2.0",
     "postcss-color-function": "^4.1.0",
     "postcss-custom-properties": "^8.0.10",
