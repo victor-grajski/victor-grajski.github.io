@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  DMV Redesign
-date:   "2019-10-08"
+date:   "2020-01-20"
 categories: jekyll update
 permalink: "/dmv"
 description: A redesign of the REAL ID office visit flow for the California DMV.
