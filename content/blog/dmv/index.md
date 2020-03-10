@@ -13,6 +13,9 @@ category: "Product Design"
 
 <a href="https://invis.io/NEU60BEG58U" target="_blank"><b>InVision Prototype</b></a>
 
+## Context
+This was a project for my Product Design Studio course at the UC Berkeley School of Information in Fall 2019. The project timeframe was 4 weeks.
+
 ## The Challenge
 The target user is an adult California resident who speaks English. This target user needs to visit a DMV office to renew their license with a REAL ID. The main business goals are to have more people complete the flow and to reduce the number of customer complaints.
 
