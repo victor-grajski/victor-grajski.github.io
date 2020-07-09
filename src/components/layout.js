@@ -33,14 +33,14 @@ const Layout = props => {
                 <Link to={`/about`}>About</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-              <a
-                href="https://drive.google.com/file/d/1UyRPM9NfPvLufSqNp85rgrCUd7CCfYA-/view?usp=sharing"
-                title="Resume"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Resume
-              </a>
+                <a
+                  href="https://drive.google.com/file/d/1UyRPM9NfPvLufSqNp85rgrCUd7CCfYA-/view?usp=sharing"
+                  title="Resume"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Resume
+                </a>
               </li>
             </ul>
           </nav>
@@ -68,7 +68,7 @@ const Layout = props => {
                 GitHub
               </a>
               <a
-                href="https://soundcloud.com/anima1a1a1a1"
+                href="https://soundcloud.com/animistttt"
                 title="SoundCloud"
                 target="_blank"
                 rel="noopener noreferrer"
