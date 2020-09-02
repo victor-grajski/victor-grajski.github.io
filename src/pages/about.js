@@ -17,19 +17,33 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2>
-            Hi, I'm Victor Grajski.
-          </h2>
-          <p>I'm a Product Designer, musician, and a second-year MIMS student at the <a href="https://ischool.berkeley.edu" target="_blank">UC Berkeley School of Information</a>.</p>
+          <h2>Hi, I'm Victor Grajski.</h2>
+          <p>
+            I'm a developer, designer, Human-Computer Interaction Master's
+            student at Carnegie Mellon, and musician.
+          </p>
 
-          <p>Through studying at Berkeley and interning at Apple as a software engineer on a product design team, I have fully realized my desire to be a Product Designer because I can bring my whole self 
-          into the product development process, from listening and empathizing with users to delivering 
-          polished, beautiful artifacts that address their pain points while maintaining feasibility and 
-          are mindful of business needs.</p>
+          <p>
+            Through studying at Carnegie Mellon and interning at Apple as a
+            software engineer on a product design team, I have fully realized my
+            desire to be a Design Technologist because I can bring my whole self
+            into the product development process, from listening and empathizing
+            with users to building polished, beautiful products that address
+            their pain points while maintaining feasibility and are mindful of
+            business needs.
+          </p>
 
-          <p>Before transitioning to Berkeley, I had the good fortune to work as a Product Manager at Graphiq and as a Knowledge Engineer on the Alexa team at Amazon by way of the Graphiq acquisition.</p>
+          <p>
+            Before transitioning to Carnegie Mellon, I had the good fortune to
+            work as a Product Manager at Graphiq and as a Knowledge Engineer on
+            the Alexa team at Amazon by way of the Graphiq acquisition.
+          </p>
 
-          <p>Outside of work, in addition to being a musician, I love to surf, snowboard, road bike, and swim. I occasionally run. Slowly. So you won't find me signing up for an Ironman anytime soon!</p>
+          <p>
+            Outside of work, in addition to being a musician, I love to surf,
+            snowboard, road bike, and swim. I occasionally run. Slowly. So you
+            won't find me signing up for an Ironman anytime soon!
+          </p>
         </div>
       </article>
     </Layout>

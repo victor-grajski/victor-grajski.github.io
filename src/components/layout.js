@@ -34,7 +34,7 @@ const Layout = props => {
               </li>
               <li className="nav-elements" role="menuitem">
                 <a
-                  href="https://drive.google.com/file/d/1UyRPM9NfPvLufSqNp85rgrCUd7CCfYA-/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1UMUI6LrbNCM7ONI3cm1CvtenSWgWlCod/view?usp=sharing"
                   title="Resume"
                   target="_blank"
                   rel="noopener noreferrer"
