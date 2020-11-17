@@ -19,23 +19,27 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <h2>Hi, I'm Victor Grajski.</h2>
           <p>
-            I'm a developer, a Human-Computer Interaction Master's student at
+            I'm a designer, a Human-Computer Interaction Master's student at
             Carnegie Mellon, and a musician.
           </p>
 
           <p>
-            Through studying at Carnegie Mellon and UC Berkeley, I have fully
+            Through studying at Carnegie Mellon and UC Berkeley, as well as
+            interning on Apple's Media Products Design team, I have fully
             realized my desire to be a designer because I can bring my whole
-            self into the product development process, from empathizing with
-            users to building polished, beautiful products that address their
-            pain points while maintaining feasibility and are mindful of
-            business needs.
+            self into the product development process.
+          </p>
+          <p>
+            I'm excited by the opportunities being a designer opens up to
+            empathize with users and build polished, beautiful artifacts that
+            meet their needs while maintaining feasibility and are mindful of
+            the business' needs.
           </p>
 
           <p>
-            Before transitioning to Carnegie Mellon, I had the good fortune to
-            work as a Product Manager at Graphiq and as a Knowledge Engineer on
-            the Alexa team at Amazon by way of the Graphiq acquisition.
+            Before continuing my education, I had the good fortune to work as a
+            Product Manager at Graphiq and as a Knowledge Engineer on the Alexa
+            team at Amazon by way of the Graphiq acquisition.
           </p>
 
           <p>
