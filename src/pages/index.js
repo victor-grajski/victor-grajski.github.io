@@ -16,16 +16,11 @@ const BlogIndex = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO
-        title="Home"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-      />
+      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
-          <h1 className="page-head-title">
-          Hi, I'm Victor Grajski.
-          </h1>
+          <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1>
           <h6>{data.site.siteMetadata.description}</h6>
         </header>
       )}
@@ -54,7 +49,7 @@ const indexQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___order], order: DESC }) {
       edges {
         node {
           excerpt
@@ -62,9 +57,10 @@ const indexQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM YYYY")
             title
             description
+            category
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {

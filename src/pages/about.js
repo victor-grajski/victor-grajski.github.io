@@ -19,17 +19,16 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <h2>Hi, I'm Victor Grajski.</h2>
           <p>
-            I'm a developer, designer, Human-Computer Interaction Master's
-            student at Carnegie Mellon, and musician.
+            I'm a developer, a Human-Computer Interaction Master's student at
+            Carnegie Mellon, and a musician.
           </p>
 
           <p>
-            Through studying at Carnegie Mellon and interning at Apple as a
-            software engineer on a product design team, I have fully realized my
-            desire to be a Design Technologist because I can bring my whole self
-            into the product development process, from listening and empathizing
-            with users to building polished, beautiful products that address
-            their pain points while maintaining feasibility and are mindful of
+            Through studying at Carnegie Mellon and UC Berkeley, I have fully
+            realized my desire to be a designer because I can bring my whole
+            self into the product development process, from empathizing with
+            users to building polished, beautiful products that address their
+            pain points while maintaining feasibility and are mindful of
             business needs.
           </p>
 
@@ -43,6 +42,10 @@ const AboutPage = ({ data }, location) => {
             Outside of work, in addition to being a musician, I love to surf,
             snowboard, road bike, and swim. I occasionally run. Slowly. So you
             won't find me signing up for an Ironman anytime soon!
+          </p>
+          <p>
+            If you'd like to get in touch, please send me an{" "}
+            <a href="mailto:vgrajski@andrew.cmu.edu">email</a>!
           </p>
         </div>
       </article>

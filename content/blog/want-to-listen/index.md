@@ -6,7 +6,8 @@ categories: jekyll update
 permalink: "/want-to-listen"
 description: Save music for later on Apple Music
 thumbnail: ./thumbnail.png
-category: "Product Design/UX Engineering"
+category: Product Design/UX Engineering
+order: 6
 ---
 
 ## Introduction
