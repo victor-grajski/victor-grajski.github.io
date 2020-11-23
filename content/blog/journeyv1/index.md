@@ -4,7 +4,7 @@ title: Journey (v1)
 date: "2020-01-21"
 categories: jekyll update
 permalink: "/journeyv1"
-description: Bridging the gap between psychotherapy sessions through personalized, structured journaling.
+description: Bridging the gap between psychotherapy sessions through personalized, structured journaling
 thumbnail: ./thumbnail.png
 category: Product Design
 order: 4

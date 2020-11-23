@@ -4,7 +4,7 @@ title: Shoom
 date: "2018-11-05"
 categories: jekyll update
 permalink: "/shoom"
-description: Shoom is an app to help emerging musical artists earn more money from touring by showing them where their potential new fans are and by allowing them to book gigs with similar artists.
+description: Helping emerging musical artists earn more money from touring by showing them where their potential new fans are and by allowing them to book gigs with similar artists
 thumbnail: ./thumbnail.png
 category: Product Design
 order: 2

@@ -4,7 +4,7 @@ title: CMYK19 Designathon
 date: "2019-11-04"
 categories: jekyll update
 permalink: "/cmyk19"
-description: A visual design for a new 8x8 foot community wall at 1951 Coffee Company as part of the CMYK19 Designathon at UC Berkeley.
+description: A visual design for a new 8x8 foot community wall at 1951 Coffee Company as part of the CMYK19 Designathon at UC Berkeley
 thumbnail: ./thumbnail.png
 category: Visual Design
 order: 1

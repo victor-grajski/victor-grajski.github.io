@@ -4,7 +4,7 @@ title: DMV Redesign
 date: "2020-01-20"
 categories: jekyll update
 permalink: "/dmv"
-description: A redesign of the REAL ID office visit flow for the California DMV.
+description: A redesign of the REAL ID office visit flow for the California DMV
 thumbnail: ./thumbnail.png
 category: Product Design
 order: 3
