@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journey Capstone
+title: Journey (Capstone)
 date: "2020-05-15"
 categories: jekyll update
 permalink: "/journey"

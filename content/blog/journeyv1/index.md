@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journey v1
+title: Journey (v1)
 date: "2020-01-21"
 categories: jekyll update
 permalink: "/journeyv1"
