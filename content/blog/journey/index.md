@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: "/journey"
 description: Bridging the gap between psychotherapy sessions
 thumbnail: ./isometric-mockup.png
-category: Product Design
+category: User Research/Product Design
 order: 5
 ---
 
