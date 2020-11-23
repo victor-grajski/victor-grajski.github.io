@@ -18,7 +18,7 @@ export default props => (
           {props.node.frontmatter.title || props.node.fields.slug}
         </h2>
         <h3 className="post-card-subtitle">
-          {props.node.frontmatter.category}
+          {props.node.frontmatter.description}
         </h3>
         <h3 className="post-card-date">{props.node.frontmatter.date}</h3>
       </div>
