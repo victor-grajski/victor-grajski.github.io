@@ -18,6 +18,12 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2>Hi, I'm Victor Grajski.</h2>
+          <figure className="kg-card kg-image-card">
+            <Img
+              fixed={data.smallPic.childImageSharp.fixed}
+              className="kg-image"
+            />
+          </figure>
           <p>
             I'm a designer, a Human-Computer Interaction Master's student at
             Carnegie Mellon, and a musician.
@@ -62,6 +68,13 @@ const indexQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    smallPic: file(relativePath: { eq: "headshot.png" }) {
+      childImageSharp {
+        fixed(width: 300, quality: 100) {
+          ...GatsbyImageSharpFixed
+        }
       }
     }
     benchAccounting: file(
