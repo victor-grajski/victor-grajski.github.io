@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a designer, an HCI Master's student at Carnegie Mellon, and a musician. At the risk of sounding cliché, I aim to build products that humanize technology.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Dec 2020 23:39:48 GMT</lastBuildDate><item><title><![CDATA[Want to Listen]]></title><description><![CDATA[Introduction When SwiftUI was introduced in 2019, I was immediately intrigued, and during my summer break in 2020, I thought it would be…]]></description><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a designer, an HCI Master's student at Carnegie Mellon, and a musician. At the risk of sounding cliché, I aim to build products that humanize technology.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Dec 2020 23:11:05 GMT</lastBuildDate><item><title><![CDATA[Showscape]]></title><description><![CDATA[Team Members Akshaya Madhavan, Amy Zhuang, Eileen You, Emmet Mack, Jenny Ong, Victor Grajski Executive Summary Showscape is a performance…]]></description><link>https://victor-grajski.github.io/showscape/</link><guid isPermaLink="false">https://victor-grajski.github.io/showscape/</guid><pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Team Members&lt;/h2&gt;
+&lt;p&gt;Akshaya Madhavan, Amy Zhuang, Eileen You, Emmet Mack, Jenny Ong, Victor Grajski&lt;/p&gt;
+&lt;h2&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;Showscape is a performance streaming platform catered to artists and their audiences. While platforms like Twitch and Zoom enable creators to perform live online, they do not provide the immersive experience artists and audiences have come to expect from physical performances. For our client, the Kelly Strayhorn Theater in Pittsburgh, PA, we sought not only to replicate what works in physical theater online, but to augment and reify the online experience to make it more conducive to theater. We arrived at our solution by conducting generative research using a variety of methods with both artists and audience members to understand their pain points. We then developed early-stage prototypes and evaluated with artists and audience members how well we addressed their pain points. Our prototypes were well-received by both artists and audience members; artists particularly liked how they were in control of how they presented to audiences, and audiences appreciated the tools we provided to interact with artists.&lt;/p&gt;
+&lt;h2&gt;Problem&lt;/h2&gt;
+&lt;p&gt;The pandemic has changed the landscape for performing arts across the world. With less freedom to leave our homes, our client, the Kelly Strayhorn Theater, asked the students in our User Research to explore how we might be able to transform the physical theater experience into a shared online experience. Our first question was: Doesn’t Zoom do that already? As we would come to find out, the answer is the classic “Well, it depends.”&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Throughout our research, we recruited a mix of artists and audience members to learn more about needs and pain points from both sides of the stage. We chose to interview both artists and audience members because of the relationship each forms with the other during a performance. By diving right into the middle of that relationship, we hoped to form a nuanced understanding of what wasn’t working with existing tools for online performance.&lt;/p&gt;
+&lt;p&gt;The first method we employed was Think Aloud for generative research. The goal of these sessions was to learn more about our problem space while generating ideas for further research. We conducted six sessions with a 50/50 mix of artists and audience members using websites in the online theater space like Zoom Theatre, Dramaversity, and Broadway.com. We chose these websites because they were similar to Kelly Strayhorn’s, and we believed looking at similar sites would help us understand what Kelly Strayhorn was already doing well compared to how they might improve. In each session, we asked participants to perform three tasks: learn about an event you find interesting and sign up for it, learn one fact about a specific cast member, and navigate to one of the performer’s social media accounts and read one of their posts. We chose these tasks because we believed they were central to how audience members take in a physical performance. More specifically, audience members typically find out about physical performances online, and while at a show, they often look at the Playbill to learn more about the cast, and they may even seek out those cast members on social media during or after the show.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/43afa8085defbee711950a153216ecf5/4552c/uft.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAADAElEQVQoz4VQeUhTcRwfSIriUNQ0p3MpEbZEwg4j0+yflmjbNJd5lSRllkdedFipJMuKyA6VPPKYzjMhIwgyD7QMIogsj21abs5tb77dcz7ftte3qdjxR19+78P3+/28z/ciRV9sPVnUdaKw63B6Y1QmLz6/80hGS9yldsiwc/nH8zuiLvAghDwjsyW+oJOVw4cwoajrQGodKSarLb3kRcrV58ey2xKKujmFXaxcftKVHk5BZ1xeB4iTLvecKu4FGSPjV+nUa72M87zwtIag2Cek2w0j95velVT1l9cOldcOl9UMcuuGy6oHS2sGb1a9La0ZuPV06G7jaEn1wPXH/cWP3tx5NpJT8ep0ce+5sj6SlSCkC/Iv419nZr+LZmbhTU0LpgVCoWgW0OaLJqcE3yYmIRQIhICTk1MKhYIgCBJ8SqVSJBQCIxaLpVIp4A+bgTM3N6dQyDUazeKiUqvVqtVqQESJAK6Jl5eXF2QyiUQMP+l0OiDAWcYwoCwWy8u+vob6+rbW1uamplYeDxAyZrN5TUzguFImUy+iWq1OpVKpNRq1WmUyGFfFbCaT5usbQKN5urt7eXiQnZwiIyJwHF8XWyxyuWJejqCoSq/XQ2dwDHo9YTMWk+lPo9HpdH8/vy2bNzva20eGh//WGSbHsIUFqdJmJpMJClut1lUqNjqa4uy8nUKhenv7UihO/4phPIFAMDU9LRLNwJ30622JlZUUFsvdxYXi5uZDJoMDnQ/9JTYalyTzUiUiQ1WocckIoxsMBsib9fq0lJT9oaE76XQfV1dvV1dHB4c/xLDhQy63p6WysqIwJ5H94B43O/3MUUYMbrFA1UQOZ0dg4LaAAC8yGd4mO7vwsLANsQJZzMvK6q67wYneW8w+2FyRzy3M271rH24xExh2Njk5NCRkT3BwEJW6lUr19PCIYjA2xBiG8fntY6PDH0dfj38YmPg0/Hns/eDAEBwCWB2CqCQSVCxGZDIFgsjlchRFV5dd2xluC2svmTAMN6+Yrbit8H/tJ/lQcVI3Jk2tAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/43afa8085defbee711950a153216ecf5/51a8e/uft.webp 340w,
+/static/43afa8085defbee711950a153216ecf5/713b7/uft.webp 680w,
+/static/43afa8085defbee711950a153216ecf5/e7d85/uft.webp 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/43afa8085defbee711950a153216ecf5/ad208/uft.png 340w,
+/static/43afa8085defbee711950a153216ecf5/a5a26/uft.png 680w,
+/static/43afa8085defbee711950a153216ecf5/4552c/uft.png 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/43afa8085defbee711950a153216ecf5/4552c/uft.png&quot;
+          alt=&quot;UFT&quot;
+          title=&quot;&quot;
+          src=&quot;/static/43afa8085defbee711950a153216ecf5/4552c/uft.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The second method we employed was Contextual Inquiry. Our main question going into this phase of the research was: How might we enable artists to engage more with their audiences in a virtual setting? We settled on this question after finding in our Think Aloud sessions that participants felt disappointed when they weren’t able to find out more information about a cast member. Thus, we hypothesized that connecting artists with their audience is crucial in translating the physical theater into an online experience. We also hypothesized that artists who were not accustomed to performing virtually would find it difficult to reach out to their audiences and form personal connections with them given there are a number of existing platforms with some artists present, but there did not seem to be a critical mass. To shed light on our hypotheses, we conducted inquiries with six artists. Within each session, we asked each artist to bring an artifact they have used to perform or collaborate online to guide the conversation and add context. We then synthesized our findings into an Affinity Map.&lt;/p&gt;
+&lt;p&gt;Next, we conducted Speed Dating sessions using storyboards we had developed based on our Contextual Inquiry findings. We recruited a mix of artists and audience members in order to evaluate the ideas we generated across both segments. In keeping with the rapid-fire tradition of the Speed Dating method, we spent a maximum of three minutes with each participant on each storyboard in order to get their gut reactions to each idea.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a53f2640428d5dfc0b72db5310f8f6a8/4552c/storyboard.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABx0lEQVQoz61Sy5LiMAzM//8Jn8BllwN7Z2oYOOQFSRy/82KKy4C1LbGT+YFNlSq2pG61284Gt1B9VtRVlrTWZK0lY8z6d86teQ5ec/47eM8xjiM9Hg/Kbp830qanTrXkvacQggCZqGkaREsxRhqGQepc47VSioqioL7vBcMxzzMIbzcqy4pOp5MAGMxkDGrblo7HI53PZ2qu15VwmiYZlue5EDGG1QrhjKJVzaquA8lVwAHEhna/f9Fms6HD4bAqjejz/Y/yrutkuBAGEJbeUkSBlbUo8jEiBuTWUKFhB9Q47BnEA10MdBkjhfiyp75cRDErz8KyUPW5kAWZA4GHnx4KBkzvPHI8MC9ov9/TbrcDYUNmiJQDY/5hnFaCF8IJhMrxJfCteqrKl8nfR7Pwhv3dbrf0B6SW1bO/AX46vnVHVaXFsgVc2TLPyVmbxnFInfLp7UMnECb4k9CUMFn2xuhUVn16/7imGHzyyE/TC/N+MtIPwpSxBxd4wH+lNDx0opCn1XUthnNoeFnVLZ7YgJNoqKrl6TRNR9fG/Hh4v98xaUp4lIgviefzmfjDra3BPdM0JqIkSnBBUG0ktyyvHubICB3/M/4CxYo2jyfi9wYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a53f2640428d5dfc0b72db5310f8f6a8/51a8e/storyboard.webp 340w,
+/static/a53f2640428d5dfc0b72db5310f8f6a8/713b7/storyboard.webp 680w,
+/static/a53f2640428d5dfc0b72db5310f8f6a8/e7d85/storyboard.webp 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a53f2640428d5dfc0b72db5310f8f6a8/ad208/storyboard.png 340w,
+/static/a53f2640428d5dfc0b72db5310f8f6a8/a5a26/storyboard.png 680w,
+/static/a53f2640428d5dfc0b72db5310f8f6a8/4552c/storyboard.png 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a53f2640428d5dfc0b72db5310f8f6a8/4552c/storyboard.png&quot;
+          alt=&quot;Storyboard&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a53f2640428d5dfc0b72db5310f8f6a8/4552c/storyboard.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Using the feedback we received in our Speed Dating sessions, we voted on a single potential solution to focus on as a team and create a prototype around. We chose the idea of a streaming platform geared specifically towards a theater context because it solved for the main issue we had uncovered across all our previous research: the disconnect between the artist and the audience during a virtual performance. We created a low-fidelity prototype in Figma and evaluated it across six sessions with a 50/50 mix of artists and audience members.&lt;/p&gt;
+&lt;p&gt;After wrapping up our prototyping sessions, we presented our findings to representatives from Kelly Strayhorn as well as guest critiquers in the UX space. We devised a two-minute elevator pitch and created a poster to facilitate a Q&amp;#x26;A session afterwards. &lt;/p&gt;
+&lt;h2&gt;Evidence&lt;/h2&gt;
+&lt;p&gt;Early in our process, during the Contextual Inquiry stage, one quote that influenced how I viewed the problem space and what solution we may propose came from an artist we interviewed. She said,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I hate the idea that ‘this [quarantine] is the opportunity to create something different.’ I want to create
+what I want, as best as possible, even with limited resources. I would rather stop creating and wait until
+the world rights itself to be more conducive to my (in person) creative process.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hearing this inspired me to explore further what has been lost about making and performing art online, ask how might we replicate what is lost, and ask how might we go beyond replicating the experience and towards augmenting it?&lt;/p&gt;
+&lt;p&gt;During another contextual inquiry session, one participant lamented about one of the biggest pain points he has faced watching performances online. He said,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In person, I always went to shows in groups. Virtually, only one thing was with another person. Everything
+else was alone. It wasn’t the same. We were on facetime while we were watching. We had to mute each other.
+It didn’t work that well. At the theater, there is an energy you’re sharing with performers and the other
+audience members, no way to duplicate that with the remote format.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In our Speed Dating phase, the way one participant described how a proposed performance streaming platform would make her feel showed me how much context of use and look and feel can influence the experience of a fundamental technology like videoconferencing. She said,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I use Zoom professionally. It really feels like a work event. We all associate it with work. With artists,
+those little vibe things really do matter. Instagram Live is cute fun, but it doesn’t have the feeling of a
+produced show. Even basic thematic things are helpful such as a similar color scheme. It feels like less of
+a compromise when the whole interface feels intentional.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Insights&lt;/h2&gt;
+&lt;p&gt;Along the way we honed in on two key insights that informed our solution. We learned that current streaming platforms limit the online theater experience because they remove the unique associations of attending a real theater, such as the grand atmosphere, the presence of the actors, and a collective audience experience. We also found that many artists and audience members feel less connected online. Artists want to feel like their audience is present during the performance, barring extreme distractions. Audience members want to feel that they are in the presence of a larger group, but they also want to have more nuanced interactions with small groups of friends or family.&lt;/p&gt;
+&lt;h2&gt;Solution&lt;/h2&gt;
+&lt;p&gt;Our goal with Showscape is to reduce the barrier between artists and audiences by reifying and augmenting the theater experience with features unique to a virtual space. This includes customizable viewing options, such as private watch party rooms for audience groups that allow for a more intimate way to experience performances, and real-time audience and artist interactions. On the artist side, Showscape features highly customizable performance set-up options that allow artists to fully control how their content is presented. Audiences can show their support for artists with reactions or through donations and buying a virtual rose. These features all help bring artists and audiences closer together and back into a more familiar context. Through our platform, we believe users will enjoy the online theater experience for the first time.&lt;/p&gt;
+&lt;h3&gt;Audience Prototype&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 75%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe style=&quot;border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4Alh7IGcj7KdqDXUZw50G9%2FAudience%3Fnode-id%3D1%253A11%26viewport%3D590%252C424%252C0.10740659385919571%26scaling%3Dcontain&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;h3&gt;Artist Prototype&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 75%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe style=&quot;border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVDAyTB7PmgLSVTLmN8mm1L%2FArtist-Prototype%3Fnode-id%3D1%253A40%26viewport%3D409%252C499%252C0.09296385943889618%26scaling%3Dscale-down&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Want to Listen]]></title><description><![CDATA[Introduction When SwiftUI was introduced in 2019, I was immediately intrigued, and during my summer break in 2020, I thought it would be…]]></description><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When SwiftUI was introduced in 2019, I was immediately intrigued, and during my summer break in 2020, I thought it would be rewarding to use some of my time off to teach myself SwiftUI. But what to build? I thought, as a musician, it goes without saying I’m passionate about music, and Apple Music is an elegant music app I use constantly; I wonder if there is anything I would want to improve? Spoiler alert: there was. Once I identified what I wanted to improve, I reviewed related experiences, mocked up what I thought the most appropriate solution was, and built a working iOS prototype in SwiftUI.&lt;/p&gt;
 &lt;p&gt;I worked on this over the month of August at a casual pace given I had time off from school, and I believe I would finish this in two weeks were I working full-time.&lt;/p&gt;
 &lt;h2&gt;Target User&lt;/h2&gt;
