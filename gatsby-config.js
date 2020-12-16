@@ -36,6 +36,7 @@ module.exports = {
               maxWidth: 1360,
               withWebp: true,
               showCaptions: true,
+              markdownCaptions: true,
               quality: 75,
               wrapperStyle: `margin: 7vw 0;`,
             },
@@ -44,6 +45,13 @@ module.exports = {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          {
+            resolve: `gatsby-remark-figure-caption`,
+            options: {
+              figureClassName: "kg-card kg-image-card",
+              imageClassName: "kg-image",
             },
           },
           `gatsby-remark-prismjs`,
