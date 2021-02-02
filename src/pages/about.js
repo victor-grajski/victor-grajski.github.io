@@ -25,21 +25,21 @@ const AboutPage = ({ data }, location) => {
             />
           </figure>
           <p>
-            I'm a designer, a Human-Computer Interaction Master's student at
-            Carnegie Mellon, and a musician.
+            I'm a Human-Computer Interaction Master's student at Carnegie Mellon
+            and a musician.
           </p>
 
           <p>
             Through studying at Carnegie Mellon and UC Berkeley, as well as
             interning on Apple's Media Products Design team, I have fully
-            realized my desire to be a designer because I can bring my whole
-            self into the product development process.
+            realized my desire to work in UX because I can bring my whole self
+            into the product development process.
           </p>
           <p>
-            I'm excited by the opportunities being a designer opens up to
-            empathize with users and build polished, beautiful artifacts that
-            meet their needs while maintaining feasibility and are mindful of
-            the business' needs.
+            I'm excited by the opportunities working in UX opens up to empathize
+            with users and build polished, beautiful artifacts that meet their
+            needs while maintaining feasibility and are mindful of the business'
+            needs.
           </p>
 
           <p>
