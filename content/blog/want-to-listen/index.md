@@ -4,7 +4,7 @@ title: Want to Listen
 date: "2020-08-29"
 categories: jekyll update
 permalink: "/want-to-listen"
-description: Save music for later on Apple Music
+description: Save recommended music for later on Apple Music
 thumbnail: ./thumbnail.png
 category: Product Design/UX Engineering
 order: 6
