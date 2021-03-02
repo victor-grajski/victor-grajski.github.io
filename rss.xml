@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm an HCI Master's student at Carnegie Mellon and a musician. At the risk of sounding cliché, I aim to create technology that puts people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Feb 2021 21:40:41 GMT</lastBuildDate><item><title><![CDATA[Showscape]]></title><description><![CDATA[Team Members Akshaya Madhavan, Amy Zhuang, Eileen You, Emmet Mack, Jenny Ong, Victor Grajski Executive Summary Showscape is a performance…]]></description><link>https://victor-grajski.github.io/showscape/</link><guid isPermaLink="false">https://victor-grajski.github.io/showscape/</guid><pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Team Members&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm an HCI Master's student at Carnegie Mellon and a musician. At the risk of sounding cliché, I aim to create technology that puts people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Mar 2021 03:16:15 GMT</lastBuildDate><item><title><![CDATA[Showscape]]></title><description><![CDATA[Team Members Akshaya Madhavan, Amy Zhuang, Eileen You, Emmet Mack, Jenny Ong, Victor Grajski Executive Summary Showscape is a performance…]]></description><link>https://victor-grajski.github.io/showscape/</link><guid isPermaLink="false">https://victor-grajski.github.io/showscape/</guid><pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Team Members&lt;/h2&gt;
 &lt;p&gt;Akshaya Madhavan, Amy Zhuang, Eileen You, Emmet Mack, Jenny Ong, Victor Grajski&lt;/p&gt;
 &lt;h2&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;Showscape is a performance streaming platform catered to artists and their audiences. While platforms like Twitch and Zoom enable creators to perform live online, they do not provide the immersive experience artists and audiences have come to expect from physical performances. For our client, the Kelly Strayhorn Theater in Pittsburgh, PA, we sought not only to replicate what works in physical theater online, but to augment and reify the online experience to make it more conducive to theater. We arrived at our solution by conducting generative research using a variety of methods with both artists and audience members to understand their pain points. We then developed early-stage prototypes and evaluated with artists and audience members how well we addressed their pain points. Our prototypes were well-received by both artists and audience members; artists particularly liked how they were in control of how they presented to audiences, and audiences appreciated the tools we provided to interact with artists.&lt;/p&gt;
@@ -250,7 +250,7 @@ a compromise when the whole interface feels intentional.”&lt;/p&gt;
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;Consolidated Journey Map&lt;/h3&gt;
-&lt;p&gt;In addition to affinity mapping, we consolidated the journey maps we created after each interview into one journey map in order to refine our understanding of the pet fostering experience. &lt;/p&gt;
+&lt;p&gt;In addition to affinity mapping, we consolidated the journey maps we created after each interview into one journey map in order to refine our understanding of the pet fostering experience.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -410,8 +410,8 @@ a compromise when the whole interface feels intentional.”&lt;/p&gt;
 &lt;h3&gt;Mid-Fi Prototype&lt;/h3&gt;
 &lt;h4&gt;Iteration 1&lt;/h4&gt;
 &lt;p&gt;For our first iteration of the Mid-Fi prototype, we individually focused on a different part of the prototype and built those pages out.&lt;/p&gt;
-&lt;p&gt;We implemented changes from previous critiques, focusing mainly on creating clearer visual affordances.  Since we were now working on a digital prototype in higher fidelity, we incorporated more details and visual design elements that would work to tackle these problems.&lt;/p&gt;
-&lt;p&gt;In order to make for a clearer call to action, we edited our use of icons and underlining. To increase visibility, we added more context on the timeline using intermediate steps. &lt;/p&gt;
+&lt;p&gt;We implemented changes from previous critiques, focusing mainly on creating clearer visual affordances. Since we were now working on a digital prototype in higher fidelity, we incorporated more details and visual design elements that would work to tackle these problems.&lt;/p&gt;
+&lt;p&gt;In order to make for a clearer call to action, we edited our use of icons and underlining. To increase visibility, we added more context on the timeline using intermediate steps.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -562,7 +562,7 @@ a compromise when the whole interface feels intentional.”&lt;/p&gt;
     &lt;/p&gt;
 &lt;p&gt;When the user passes the interview stage, the user can receive one of three results after several weeks: an acceptance, a waitlist, and a rejection. We decided to showcase a waitlist decision that eventually leads to the user being accepted off of it. That way, we could show two of the possible results in a natural manner rather than simply presenting the two as alternatives.&lt;/p&gt;
 &lt;p&gt;We also played with the layout of the final results screen and decided to place the resources lower on the screen, and thus the hierarchy. We emphasized the steps that come after the user has been accepted to foster.&lt;/p&gt;
-&lt;p&gt;Now, we had a series of screens where the flow from one step to the next was more natural, and where the calls to action were clearer. A user’s process from landing on the pet’s profile page to receiving their results was clearer and more transparent. &lt;/p&gt;
+&lt;p&gt;Now, we had a series of screens where the flow from one step to the next was more natural, and where the calls to action were clearer. A user’s process from landing on the pet’s profile page to receiving their results was clearer and more transparent.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -611,7 +611,7 @@ a compromise when the whole interface feels intentional.”&lt;/p&gt;
     &lt;/p&gt;
 &lt;h2&gt;Pitch&lt;/h2&gt;
 &lt;h3&gt;Setting the Stage&lt;/h3&gt;
-&lt;p&gt;Our team felt that in order to present a cohesive and compelling narrative, it was crucial to ‘set the stage’ for our solution.  By sharing the attention grabbing statistics of the current landscape for shelters across the nation our audience would be able to immediately identify the domain in which our project lived. This was immediately followed by a direct address to our target audience (the Allegheny County Rescue Association) an identification of the funding source, and above all, the goal of the ACRA and ultimately, our project: to save more animals. &lt;/p&gt;
+&lt;p&gt;Our team felt that in order to present a cohesive and compelling narrative, it was crucial to ‘set the stage’ for our solution. By sharing the attention grabbing statistics of the current landscape for shelters across the nation our audience would be able to immediately identify the domain in which our project lived. This was immediately followed by a direct address to our target audience (the Allegheny County Rescue Association) an identification of the funding source, and above all, the goal of the ACRA and ultimately, our project: to save more animals.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -668,7 +668,7 @@ a compromise when the whole interface feels intentional.”&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3&gt;User-driven Solution&lt;/h3&gt;
 &lt;p&gt;We presented our solution in the scenario of John Jonson and his journey to adopting the dog he fell in love with, Pepper, allowing our solution to be driven by the experience of the user. This showed our audience how the solution would look through the eyes of their potential applicants. Our goal in doing so was to keep the audience engaged as John explored the various functions and features.&lt;/p&gt;
-&lt;p&gt;This also gave us an opportunity to discuss the key benefits of our design in a solution that the audience was now familiar with and they could associate these benefits more clearly with stages of the application process. &lt;/p&gt;
+&lt;p&gt;This also gave us an opportunity to discuss the key benefits of our design in a solution that the audience was now familiar with and they could associate these benefits more clearly with stages of the application process.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
