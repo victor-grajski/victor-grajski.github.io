@@ -18,14 +18,14 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2>Hi, I'm Victor Grajski.</h2>
-          <figure className="kg-card kg-image-card">
+          {/* <figure className="kg-card kg-image-card">
             <Img
               fixed={data.smallPic.childImageSharp.fixed}
               className="kg-image"
             />
-          </figure>
+          </figure> */}
           <p>
-            I'm a Human-Computer Interaction Master's student at Carnegie Mellon
+            I'm a Product Designer, an HCI Master's student at Carnegie Mellon,
             and a musician.
           </p>
 

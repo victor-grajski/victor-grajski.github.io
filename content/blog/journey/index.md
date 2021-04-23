@@ -7,10 +7,16 @@ permalink: "/journey"
 description: Bridging the gap between psychotherapy sessions
 thumbnail: ./isometric-mockup.png
 category: User Research/Product Design
-order: 5
+order: 4
 ---
 
 <img src="/isometric-mockup.png" alt="splash" />
+
+## Overview
+
+Journey is a mobile application designed to bridge the gap between psychotherapy sessions through structured journaling and session-related activities. I served as the lead designer for the project, and I worked with two user researchers to generate insights and evaluate my designs.
+
+Stay tuned for a deeper case study, and in the meantime, please check out the prototypes and the presentation!
 
 ## Project Deliverables
 
@@ -26,7 +32,7 @@ order: 5
 
 ### Presentation
 
-<a href="https://docs.google.com/presentation/d/1xVB8RFbLhkD0Iz_XhcG--lsGduu1GLW2S30RBlpXCps/edit?usp=sharing" target="_blank"><b>Google Slides</b></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHZDtwCC7NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Report
 
