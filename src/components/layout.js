@@ -24,7 +24,13 @@ const Layout = props => {
               </div>
             </div>
           </a>
-          <nav id="swup" class="site-head-left">
+
+          <div className="site-head-left">
+            <Link className="site-head-logo" to={`/`}>
+              {title}
+            </Link>
+          </div>
+          <nav id="swup" class="site-head-right">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Work</Link>
@@ -44,12 +50,35 @@ const Layout = props => {
               </li>
             </ul>
           </nav>
-          <div className="site-head-center">
+
+          {/* <nav id="swup" class="site-head-left">
+            <ul className="nav" role="menu">
+              <li className="nav-home nav-current" role="menuitem">
+                <Link to={`/`}>Work</Link>
+              </li>
+              <li className="nav-about" role="menuitem">
+                <Link to={`/about`}>About</Link>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <a
+                  href="https://drive.google.com/file/d/1UMUI6LrbNCM7ONI3cm1CvtenSWgWlCod/view?usp=sharing"
+                  title="Resume"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Resume
+                </a>
+              </li>
+            </ul>
+          </nav> */}
+
+          {/* <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
               {title}
             </Link>
-          </div>
-          <div className="site-head-right">
+          </div> */}
+
+          {/* <div className="site-head-right">
             <div className="social-links">
               <a
                 href="https://www.linkedin.com/in/victor-grajski/"
@@ -76,7 +105,7 @@ const Layout = props => {
                 SoundCloud
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </header>
       <main id="site-main" className="site-main">
