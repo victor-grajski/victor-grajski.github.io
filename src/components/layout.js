@@ -40,7 +40,17 @@ const Layout = props => {
               </li>
               <li className="nav-elements" role="menuitem">
                 <a
-                  href="https://drive.google.com/file/d/1UMUI6LrbNCM7ONI3cm1CvtenSWgWlCod/view?usp=sharing"
+                  href="https://github.com/victor-grajski"
+                  title="GitHub"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <a
+                  href="https://drive.google.com/file/d/1o7P6sPWuRYm1AmDkpq3dlovlq4A25XXK/view?usp=sharing"
                   title="Resume"
                   target="_blank"
                   rel="noopener noreferrer"
