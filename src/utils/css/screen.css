@@ -401,14 +401,17 @@ body {
 
 .post-card {
   position: relative;
-  flex: 1 1 50%;
+  flex: 1 1 100%;
   display: flex;
   position: relative;
   height: 35vw;
-  background: linear-gradient(135deg, #1f1f1f 0%, #111 100%) center center;
+  /* background: #219897; */
+  /* background: linear-gradient(135deg, #1f1f1f 0%, #111 100%) center center; */
   background-size: cover;
   overflow: hidden;
   counter-increment: posts;
+  margin-bottom: 50px;
+  border-radius: 10px;
 }
 
 @media (max-width: 700px) {

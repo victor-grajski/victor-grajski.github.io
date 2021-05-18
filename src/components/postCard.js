@@ -6,11 +6,9 @@ export default props => (
     className={`post-card ${props.postClass} ${
       props.node.frontmatter.thumbnail ? `with-image` : `no-image`
     }`}
-    style={
-      props.node.frontmatter.thumbnail && {
-        backgroundImage: `url(${props.node.frontmatter.thumbnail.childImageSharp.fluid.src})`,
-      }
-    }
+    style={{
+      background: props.node.frontmatter.color,
+    }}
   >
     <Link to={props.node.fields.slug} className="post-card-link">
       <div className="post-card-content">
@@ -20,7 +18,7 @@ export default props => (
         <h3 className="post-card-subtitle">
           {props.node.frontmatter.description}
         </h3>
-        <h3 className="post-card-date">{props.node.frontmatter.date}</h3>
+        <h3 className="post-card-date">{props.node.frontmatter.color}</h3>
       </div>
     </Link>
   </article>
