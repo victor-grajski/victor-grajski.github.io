@@ -726,7 +726,7 @@ body {
 }
 
 .post-content-body iframe {
-  margin: 0 auto !important;
+  /* margin: 0 auto !important; */
 }
 
 .post-content-body blockquote {
@@ -868,4 +868,47 @@ body {
 .page-template .post-content-body h2,
 .page-template .post-content-body h3 {
   text-align: left;
+}
+
+.post-content-body-content-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 8vw;
+}
+
+.post-content-body-content-header {
+  width: 50%;
+}
+
+.post-content-body-content-header h2,
+.post-content-body-content-header h3,
+.post-content-body-content-header h4,
+.post-content-body-content-header h5 {
+  margin: 0;
+}
+.post-content-body-content-content h5 {
+  font-weight: 500;
+  margin: 1.5em 0 0.5em 0;
+  /* font-size: 2.2rem; */
+}
+
+.post-content-body-content-content {
+  width: 50%;
+}
+
+@media (max-width: 850px) {
+  .post-content-body-content-container {
+    flex-direction: column;
+  }
+  .post-content-body-content-header {
+    width: 100%;
+    margin-bottom: 2vw;
+  }
+  .post-content-body-content-content {
+    width: 100%;
+  }
+  .post-content-body-content-content h5 {
+    font-size: 2.2rem;
+  }
 }
