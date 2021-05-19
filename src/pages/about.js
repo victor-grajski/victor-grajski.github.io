@@ -25,8 +25,8 @@ const AboutPage = ({ data }, location) => {
             />
           </figure> */}
           <p>
-            I'm a Product Designer, an HCI Master's student at Carnegie Mellon,
-            and a musician.
+            I'm a designer, developer, HCI Master's student at Carnegie Mellon,
+            and musician.
           </p>
 
           <p>
@@ -52,10 +52,6 @@ const AboutPage = ({ data }, location) => {
             Outside of work, in addition to being a musician, I love to surf,
             snowboard, road bike, and swim. I occasionally run. Slowly. So you
             won't find me signing up for an Ironman anytime soon!
-          </p>
-          <p>
-            If you'd like to get in touch, please send me an{" "}
-            <a href="mailto:vgrajski@andrew.cmu.edu">email</a>!
           </p>
         </div>
       </article>
