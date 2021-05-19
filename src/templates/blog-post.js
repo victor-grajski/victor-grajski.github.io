@@ -27,7 +27,7 @@ class BlogPostTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
-          {/* {post.frontmatter.thumbnail && (
+          {post.frontmatter.thumbnail && (
             <div className="post-content-image">
               <Img
                 className="kg-image"
@@ -35,7 +35,66 @@ class BlogPostTemplate extends React.Component {
                 alt={post.frontmatter.title}
               />
             </div>
-          )} */}
+          )}
+
+          <div className="post-content-overview-container">
+            <div className="post-content-overview-stats-container">
+              <div className="post-content-overview-stat-container">
+                <p className="post-content-overivew-stats-header">Role</p>
+
+                {post.frontmatter.role && (
+                  <p class="post-content-overview-stat">
+                    {post.frontmatter.role}
+                  </p>
+                )}
+              </div>
+              <div className="post-content-overview-stat-container">
+                <p className="post-content-overivew-stats-header">Duration</p>
+
+                {post.frontmatter.duration && (
+                  <p class="post-content-overview-stat">
+                    {post.frontmatter.duration}
+                  </p>
+                )}
+              </div>
+              <div className="post-content-overview-stat-container">
+                <p className="post-content-overivew-stats-header">Year</p>
+
+                {post.frontmatter.year && (
+                  <p class="post-content-overview-stat">
+                    {post.frontmatter.year}
+                  </p>
+                )}
+              </div>
+              <div className="post-content-overview-stat-container">
+                <p className="post-content-overivew-stats-header">Tools</p>
+
+                {post.frontmatter.tools && (
+                  <p class="post-content-overview-stat">
+                    {post.frontmatter.tools}
+                  </p>
+                )}
+              </div>
+            </div>
+            <div className="post-content-overview-text-container">
+              {post.frontmatter.overview && (
+                <p class="post-content-overview-text">
+                  {post.frontmatter.overview}
+                </p>
+              )}
+
+              <a
+                className="project-link-button"
+                href={post.frontmatter.link}
+                target="_blank"
+              >
+                View Project on{" "}
+                {post.frontmatter.linkSource && (
+                  <span>{post.frontmatter.linkSource}</span>
+                )}
+              </a>
+            </div>
+          </div>
 
           <div
             className="post-content-body"
@@ -72,6 +131,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        overview
+        role
+        duration
+        year
+        tools
+        link
+        linkSource
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 1360) {

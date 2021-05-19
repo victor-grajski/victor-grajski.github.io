@@ -9,13 +9,6 @@ thumbnail: ./thumbnail.png
 category: Product Design/UX Engineering
 order: 2
 color: "#333333"
-overview: "When SwiftUI was introduced in 2019, I was immediately intrigued, and during my summer break in 2020, I thought it would be rewarding to use some of my time off to teach myself SwiftUI. But what to build? I thought, as a musician, it goes without saying I’m passionate about music, and Apple Music is an elegant music app I use constantly; I wonder if there is anything I would want to improve? Spoiler alert: there was. Once I identified what I wanted to improve, I reviewed related experiences, mocked up what I thought the most appropriate solution was, and built a working iOS prototype in SwiftUI."
-role: Design Technologist, UX Designer
-duration: "6 weeks (1/4 time)"
-year: 2020
-tools: "Sketch, Swift, SwiftUI"
-link: "https://github.com/victor-grajski/WantToListen"
-linkSource: "GitHub"
 ---
 
 ## Introduction
