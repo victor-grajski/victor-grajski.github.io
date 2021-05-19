@@ -6,13 +6,15 @@ export default props => (
     className={`post-card ${props.postClass} ${
       props.node.frontmatter.thumbnail ? `with-image` : `no-image`
     }`}
-    style={{
-      background: props.node.frontmatter.color,
-    }}
   >
     <Link to={props.node.fields.slug} className="post-card-link">
       <div className="post-card-content">
-        <div className="post-card-text">
+        <div
+          className="post-card-text"
+          style={{
+            background: props.node.frontmatter.color,
+          }}
+        >
           <h2 className="post-card-title">
             {props.node.frontmatter.title || props.node.fields.slug}
           </h2>

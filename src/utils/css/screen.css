@@ -411,7 +411,7 @@ body {
   display: flex;
   position: relative;
   height: 35vw;
-  /* background: #219897; */
+  background: black;
   /* background: linear-gradient(135deg, #1f1f1f 0%, #111 100%) center center; */
   background-size: cover;
   overflow: hidden;
@@ -476,8 +476,8 @@ body {
   }
 }
 
-.post-card-link:hover .post-card-content {
-  opacity: 1;
+.post-card-link:hover .post-card-image-container {
+  opacity: 0.5;
   transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
   /* backdrop-filter: blur(5px); */
 }
@@ -507,12 +507,14 @@ body {
   position: absolute;
   top: 0;
   right: 0;
+  transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
 }
 
 .post-card-image {
   height: 100%;
   width: 100%;
   object-fit: cover;
+  border-radius: 0 10px 10px 0;
 }
 
 .post-card-date {

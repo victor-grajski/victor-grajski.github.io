@@ -13,7 +13,7 @@ overview: "When SwiftUI was introduced in 2019, I was immediately intrigued, and
 role: Design Technologist, UX Designer
 duration: "6 weeks (1/4 time)"
 year: 2020
-tools: "Sketch, Swift, SwiftUI"
+tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
 linkSource: "GitHub"
 ---
