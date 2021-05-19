@@ -24,7 +24,7 @@ const BlogIndex = ({ data }, location) => {
           <h6>
             I'm a designer,{" "}
             <a
-              class="hero-link"
+              className="hero-link"
               target="_blank"
               href="https://github.com/victor-grajski"
             >

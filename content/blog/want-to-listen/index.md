@@ -16,6 +16,7 @@ year: 2020
 tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
 linkSource: "GitHub"
+longDescription: "Save music recommendations for later on Apple Music"
 ---
 
 <div class="post-content-body-content-container">

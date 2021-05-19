@@ -1,9 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
+// import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Layout = props => {
-  const { title, children } = props
+  const { title, children, location } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+  // const { url } = useSiteMetadata();
+  // console.log(url)
+
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -30,9 +34,14 @@ const Layout = props => {
               {title}
             </Link>
           </div>
-          <nav id="swup" class="site-head-right">
+          <nav id="swup" className="site-head-right">
             <ul className="nav" role="menu">
-              <li className="nav-home nav-current" role="menuitem">
+              <li
+                className={`nav-home ${
+                  location && location.pathname === "/" ? `nav-current` : ``
+                }`}
+                role="menuitem"
+              >
                 <Link to={`/`}>Work</Link>
               </li>
               <li className="nav-about" role="menuitem">
