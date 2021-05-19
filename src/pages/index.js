@@ -83,6 +83,7 @@ const indexQuery = graphql`
             description
             category
             color
+            longDescription
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {

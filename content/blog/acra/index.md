@@ -7,7 +7,7 @@ permalink: "/acra"
 description: Making the pet fostering application process more transparent
 thumbnail: ./thumbnail.png
 category: User Research/Product Design
-color: "#219897"
+color: "#6247aa"
 order: 3
 ---
 

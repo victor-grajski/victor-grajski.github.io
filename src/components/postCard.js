@@ -12,13 +12,20 @@ export default props => (
   >
     <Link to={props.node.fields.slug} className="post-card-link">
       <div className="post-card-content">
-        <h2 className="post-card-title">
-          {props.node.frontmatter.title || props.node.fields.slug}
-        </h2>
-        <h3 className="post-card-subtitle">
-          {props.node.frontmatter.description}
-        </h3>
-        <h3 className="post-card-date">{props.node.frontmatter.color}</h3>
+        <div className="post-card-text">
+          <h2 className="post-card-title">
+            {props.node.frontmatter.title || props.node.fields.slug}
+          </h2>
+          <h3 className="post-card-subtitle">
+            {props.node.frontmatter.longDescription}
+          </h3>
+        </div>
+        <div className="post-card-image-container">
+          <img
+            className="post-card-image"
+            src={props.node.frontmatter.thumbnail.childImageSharp.fluid.src}
+          />
+        </div>
       </div>
     </Link>
   </article>
