@@ -498,8 +498,8 @@ body {
 .post-card-subtitle {
   margin: 0;
   display: inline-block;
-  font-size: 2rem;
-  font-weight: 400;
+  font-size: 1.8rem;
+  font-weight: 300;
   /* max-width: 70%; */
   /* text-align: center; */
   transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
@@ -673,6 +673,7 @@ body {
   background-color: #219897;
   color: whitesmoke;
   border-radius: 10px;
+  font-size: 1.8rem;
 }
 
 .project-link-button:hover {

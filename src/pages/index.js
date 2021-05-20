@@ -16,21 +16,24 @@ const BlogIndex = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO
+        title="Portfolio"
+        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+      />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           {/* <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1> */}
           <h6>
-            I'm a designer,{" "}
+            I'm a{" "}
             <a
               className="hero-link"
               target="_blank"
               href="https://github.com/victor-grajski"
             >
-              developer
+              Design Technologist
             </a>
-            , HCI Master's student at Carnegie Mellon, and{" "}
+            , Product Designer, HCI Master's student at Carnegie Mellon, and{" "}
             <a
               class="hero-link"
               target="_blank"
@@ -83,7 +86,8 @@ const indexQuery = graphql`
             description
             category
             color
-            longDescription
+            overview
+            shortDescription
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {

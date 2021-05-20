@@ -19,7 +19,7 @@ export default props => (
             {props.node.frontmatter.title || props.node.fields.slug}
           </h2>
           <h3 className="post-card-subtitle">
-            {props.node.frontmatter.longDescription}
+            {props.node.frontmatter.shortDescription}
           </h3>
         </div>
         <div className="post-card-image-container">

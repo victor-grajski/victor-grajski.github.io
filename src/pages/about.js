@@ -31,7 +31,7 @@ const AboutPage = ({ data }, location) => {
 
             <div class="post-content-body-content-content">
               <p>
-                I'm a designer, developer, HCI Master's student at Carnegie
+                I'm a developer, designer, HCI Master's student at Carnegie
                 Mellon, and musician.
               </p>
 
