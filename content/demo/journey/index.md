@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Journey (Capstone)
+title: Journey
 date: "2020-05-15"
 categories: jekyll update
 permalink: "/journey"
 description: Bridging the gap between psychotherapy sessions
+longDescription: Journey is a mobile application designed to bridge the gap between psychotherapy sessions through structured journaling and session-related activities. I played a key role in developing the design, and I worked with user researchers to generate insights and evaluate my designs.
 thumbnail: ./isometric-mockup.png
 category: User Research/Product Design
+color: "#219897"
 order: 4
 ---
 

@@ -8,6 +8,7 @@ description: Save music recommendations for later on Apple Music
 thumbnail: ./thumbnail.png
 category: Product Design/UX Engineering
 order: 2
+color: "#333333"
 ---
 
 ## Introduction

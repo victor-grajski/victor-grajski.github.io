@@ -1,9 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
+// import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Layout = props => {
-  const { title, children } = props
+  const { title, children, location } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -24,7 +26,49 @@ const Layout = props => {
               </div>
             </div>
           </a>
-          <nav id="swup" class="site-head-left">
+
+          <div className="site-head-left">
+            <Link className="site-head-logo" to={`/`}>
+              {title}
+            </Link>
+          </div>
+          <nav id="swup" className="site-head-right">
+            <ul className="nav" role="menu">
+              <li className="nav-home" role="menuitem">
+                <Link activeClassName="nav-current" to={`/`}>
+                  Work
+                </Link>
+              </li>
+              <li className="nav-about" role="menuitem">
+                <Link activeClassName="nav-current" to={`/about`}>
+                  About
+                </Link>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <a
+                  href="https://github.com/victor-grajski"
+                  title="GitHub"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <a
+                  id="last-nav-element"
+                  href="https://drive.google.com/file/d/1o7P6sPWuRYm1AmDkpq3dlovlq4A25XXK/view?usp=sharing"
+                  title="Resume"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Resume
+                </a>
+              </li>
+            </ul>
+          </nav>
+
+          {/* <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Work</Link>
@@ -43,13 +87,15 @@ const Layout = props => {
                 </a>
               </li>
             </ul>
-          </nav>
-          <div className="site-head-center">
+          </nav> */}
+
+          {/* <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
               {title}
             </Link>
-          </div>
-          <div className="site-head-right">
+          </div> */}
+
+          {/* <div className="site-head-right">
             <div className="social-links">
               <a
                 href="https://www.linkedin.com/in/victor-grajski/"
@@ -76,7 +122,7 @@ const Layout = props => {
                 SoundCloud
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </header>
       <main id="site-main" className="site-main">

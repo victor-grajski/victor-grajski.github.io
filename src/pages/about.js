@@ -17,46 +17,51 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2>Hi, I'm Victor Grajski.</h2>
-          {/* <figure className="kg-card kg-image-card">
-            <Img
-              fixed={data.smallPic.childImageSharp.fixed}
-              className="kg-image"
-            />
-          </figure> */}
-          <p>
-            I'm a Product Designer, an HCI Master's student at Carnegie Mellon,
-            and a musician.
-          </p>
+          <div className="post-content-body-content-container">
+            <div className="post-content-body-content-header">
+              <h5>Hi, I'm Victor Grajski.</h5>
+            </div>
 
-          <p>
-            Through studying at Carnegie Mellon and UC Berkeley, as well as
-            interning on Apple's Media Products Design team, I have fully
-            realized my desire to work in UX because I can bring my whole self
-            into the product development process.
-          </p>
-          <p>
-            I'm excited by the opportunities working in UX opens up to empathize
-            with users and build polished, beautiful artifacts that meet their
-            needs while maintaining feasibility and are mindful of the business'
-            needs.
-          </p>
+            {/* <figure className="kg-card kg-image-card">
+              <Img
+                fixed={data.smallPic.childImageSharp.fixed}
+                className="kg-image"
+              />
+            </figure> */}
 
-          <p>
-            Before continuing my education, I had the good fortune to work as a
-            Product Manager at Graphiq and as a Knowledge Engineer on the Alexa
-            team at Amazon by way of the Graphiq acquisition.
-          </p>
+            <div class="post-content-body-content-content">
+              <p>
+                I'm a designer, developer, HCI Master's student at Carnegie
+                Mellon, and musician.
+              </p>
 
-          <p>
-            Outside of work, in addition to being a musician, I love to surf,
-            snowboard, road bike, and swim. I occasionally run. Slowly. So you
-            won't find me signing up for an Ironman anytime soon!
-          </p>
-          <p>
-            If you'd like to get in touch, please send me an{" "}
-            <a href="mailto:vgrajski@andrew.cmu.edu">email</a>!
-          </p>
+              <p>
+                Through studying at Carnegie Mellon and UC Berkeley, as well as
+                interning on Apple's Media Products Design team, I have fully
+                realized my desire to work in UX because I can bring my whole
+                self into the product development process.
+              </p>
+              <p>
+                I'm excited by the opportunities working in UX opens up to
+                empathize with users and build polished, beautiful artifacts
+                that meet their needs while maintaining feasibility and are
+                mindful of the business' needs.
+              </p>
+
+              <p>
+                Before continuing my education, I had the good fortune to work
+                as a Product Manager at Graphiq and as a Knowledge Engineer on
+                the Alexa team at Amazon by way of the Graphiq acquisition.
+              </p>
+
+              <p>
+                Outside of work, in addition to being a musician, I love to
+                surf, snowboard, road bike, and swim. I occasionally run.
+                Slowly. So you won't find me signing up for an Ironman anytime
+                soon!
+              </p>
+            </div>
+          </div>
         </div>
       </article>
     </Layout>

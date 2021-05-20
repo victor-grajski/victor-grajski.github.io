@@ -20,8 +20,28 @@ const BlogIndex = ({ data }, location) => {
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
-          <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1>
-          <h6>{data.site.siteMetadata.description}</h6>
+          {/* <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1> */}
+          <h6>
+            I'm a designer,{" "}
+            <a
+              className="hero-link"
+              target="_blank"
+              href="https://github.com/victor-grajski"
+            >
+              developer
+            </a>
+            , HCI Master's student at Carnegie Mellon, and{" "}
+            <a
+              class="hero-link"
+              target="_blank"
+              href="https://soundcloud.com/animistttt"
+            >
+              musician
+            </a>
+            . At the risk of sounding cliché, I create technologies that put
+            people first.
+          </h6>
+          {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}
         </header>
       )}
@@ -62,6 +82,8 @@ const indexQuery = graphql`
             title
             description
             category
+            color
+            longDescription
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {
