@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a Design Technologist, Product Designer, HCI Master's student at Carnegie Mellon, and musician. At the risk of sounding cliché, I create technologies that put people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 May 2021 22:17:52 GMT</lastBuildDate><item><title><![CDATA[Want to Listen]]></title><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe class=&quot;kg-image&quot; style=&apos;width:100%;height:700px;margin-top:8vw;&apos; src=&quot;https://www.youtube.com/embed/GusiCJYBcbs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a Design Technologist, Product Designer, HCI Master's student at Carnegie Mellon, and musician. At the risk of sounding cliché, I create technologies that put people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 May 2021 22:26:51 GMT</lastBuildDate><item><title><![CDATA[Want to Listen]]></title><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe class=&quot;kg-image&quot; style=&apos;width:100%;height:700px;margin-top:8vw;&apos; src=&quot;https://www.youtube.com/embed/GusiCJYBcbs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot;&gt;&lt;/iframe&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Target User&lt;/h4&gt;
@@ -15,43 +15,24 @@
 &lt;p&gt;Let&apos;s say Apple Music shows a carousel of albums similar to the one Sam user recently listened to; in this case, Joyland by TR/ST. They see an album in that carousel, Modern Mirror by Drab Majesty, that they’ve been meaning to listen to for a while, but they don&apos;t have time to listen to it right now. A week goes by, Apple Music’s recommendation has been replaced, and when Sam does have time to listen to new music, they can&apos;t remember which album they meant to listen to. If only there were a way to save recommendations for later!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- &lt;img class=&quot;kg-image&quot; src=&quot;/Empty-State2x.png&quot; alt=&quot;empty state&quot; /&gt; --&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 110.58823529411765%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsSAAALEgHS3X78AAACvElEQVQ4y52V/UtTURjH/UPa293d2sSt3ItON0UhpRc1XVo/pFlgZqCViKk4raiRuAobcwYaMs0yTdmma1FiZCtlEmqB/ZD09kPZpq1SCFnt27kLY0hG9154OPfec54Pz/Occ75PnFQqRaxJJJI/o1AohEAgAJ/Pj47MN2Oxazb6x238sb6QMYvFAq/XC7fbDafTCZfLhdbWVojFYvzN759AuVwOn8+H1ZUVBAIBhMNhMM/Tx49A0zQ34KjHg4WFBQQWPyASifwGPvGxBzIpJapUaG4yoa62FufMLWgymTB8qxcdbRxSFolESNXrkWlIQdauAhzvvA9NohqlhbmoKC5kHyEDTE5ORkH+XlQeKsXZqpPIVm9DQ00VLp1vJPMUe2ASARYZ85GTkY4UrR4JJKqykgPI3bmDW4Q6nQ55OTmQk3plpaVBLhIiOzMdSWoV2TQpOyBNIEqlEvZ2O/p7+9B/4yZ6unvg8YzCZrVy2GWaABVKWK/ZYOvtRN/wdbx/5ce7ST8m3A4IRDS2sgFSFIUkrRbF5YchSd2OPUfyYKouwsOS/bDX1IJPiVkCxRTUiSqcPlOPfeUH0XCxGffaOjFjuYor9WSXaQ5XTyaTYWxsDOEfYayuruBbKISfiODZzDQotseGKbpCoUBXVxdu9w/gztAQHrgnMeGdRV/3AJlnGSFTQ41GjRNVp2AsNMJ6+QKKDE3I39KCkoxqSGTiTY/OpkCtVoOy8kroDFkwN9ahYrcZBuooCrKPQSqj2QGZlOPj4+EcGcXc/Dxev32D2emXmHv+gijQXQ56SICMfLkGB/Gd6OHy8md8+RrC2tpaVCNZA6MRJigwaG9HaPEjPhGBXQouIRgMYnx8nD1QSo4NTazb3gH/1FS0BTDyP0XeHQ5HtMb/DYxtQHzSkHikQfF4vKitN6vYvrPR/xc4qRqhsJomqwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
+&lt;div class=&quot;post-content-image&quot;&gt;
+    
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 110.58823529411765%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsSAAALEgHS3X78AAACvElEQVQ4y52V/UtTURjH/UPa293d2sSt3ItON0UhpRc1XVo/pFlgZqCViKk4raiRuAobcwYaMs0yTdmma1FiZCtlEmqB/ZD09kPZpq1SCFnt27kLY0hG9154OPfec54Pz/Occ75PnFQqRaxJJJI/o1AohEAgAJ/Pj47MN2Oxazb6x238sb6QMYvFAq/XC7fbDafTCZfLhdbWVojFYvzN759AuVwOn8+H1ZUVBAIBhMNhMM/Tx49A0zQ34KjHg4WFBQQWPyASifwGPvGxBzIpJapUaG4yoa62FufMLWgymTB8qxcdbRxSFolESNXrkWlIQdauAhzvvA9NohqlhbmoKC5kHyEDTE5ORkH+XlQeKsXZqpPIVm9DQ00VLp1vJPMUe2ASARYZ85GTkY4UrR4JJKqykgPI3bmDW4Q6nQ55OTmQk3plpaVBLhIiOzMdSWoV2TQpOyBNIEqlEvZ2O/p7+9B/4yZ6unvg8YzCZrVy2GWaABVKWK/ZYOvtRN/wdbx/5ce7ST8m3A4IRDS2sgFSFIUkrRbF5YchSd2OPUfyYKouwsOS/bDX1IJPiVkCxRTUiSqcPlOPfeUH0XCxGffaOjFjuYor9WSXaQ5XTyaTYWxsDOEfYayuruBbKISfiODZzDQotseGKbpCoUBXVxdu9w/gztAQHrgnMeGdRV/3AJlnGSFTQ41GjRNVp2AsNMJ6+QKKDE3I39KCkoxqSGTiTY/OpkCtVoOy8kroDFkwN9ahYrcZBuooCrKPQSqj2QGZlOPj4+EcGcXc/Dxev32D2emXmHv+gijQXQ56SICMfLkGB/Gd6OHy8md8+RrC2tpaVCNZA6MRJigwaG9HaPEjPhGBXQouIRgMYnx8nD1QSo4NTazb3gH/1FS0BTDyP0XeHQ5HtMb/DYxtQHzSkHikQfF4vKitN6vYvrPR/xc4qRqhsJomqwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/51a8e/Empty-State2x.webp 340w,
+        &lt;source srcset=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/51a8e/Empty-State2x.webp 340w,
 /static/8283f7dbdf01f32ec0dc5f4cb8160477/713b7/Empty-State2x.webp 680w,
-/static/8283f7dbdf01f32ec0dc5f4cb8160477/db048/Empty-State2x.webp 1333w&quot;
-          sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/ad208/Empty-State2x.png 340w,
+/static/8283f7dbdf01f32ec0dc5f4cb8160477/db048/Empty-State2x.webp 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/ad208/Empty-State2x.png 340w,
 /static/8283f7dbdf01f32ec0dc5f4cb8160477/a5a26/Empty-State2x.png 680w,
-/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png 1333w&quot;
-          sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png&quot;
-          alt=&quot;empty state meep&quot;
-          title=&quot;&quot;
-          src=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png&quot;
-        /&gt;
+/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png&quot; alt=&quot;empty state&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
-  &lt;/p&gt;
+  
+&lt;/div&gt;
+&lt;!-- ![empty state meep](./Empty-State2x.png) --&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Key Design Decisions&lt;/h4&gt;
