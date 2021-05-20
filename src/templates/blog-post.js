@@ -9,10 +9,9 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const url = this.props.data.site.siteMetadata.siteUrl
 
     return (
-      <Layout location={this.props.location} title={siteTitle} url={url}>
+      <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
