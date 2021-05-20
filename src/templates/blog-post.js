@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -9,6 +9,9 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
+    const next = this.props.pageContext.next
+    const prev = this.props.pageContext.previous
+    console.log(next)
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -24,7 +27,9 @@ class BlogPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p class="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">
+              {post.frontmatter.description}
+            </p>
           )}
 
           {post.frontmatter.thumbnail && (
@@ -102,10 +107,23 @@ class BlogPostTemplate extends React.Component {
           />
 
           <footer className="post-content-footer">
-            {/* There are two options for how we display the byline/author-info.
-        If the post has more than one author, we load a specific template
-        from includes/byline-multiple.hbs, otherwise, we just use the
-        default byline. */}
+            <div className="post-content-footer-prev">
+              {prev && (
+                <Link to={prev.fields.slug} style={{ maxWidth: "25%" }}>
+                  <strong>Previous Project</strong> <br />
+                  {prev.frontmatter.title}
+                </Link>
+              )}
+            </div>
+
+            <div className="post-content-footer-next">
+              {next && (
+                <Link to={next.fields.slug} style={{ maxWidth: "25%" }}>
+                  <strong>Next Project</strong> <br />
+                  {next.frontmatter.title}
+                </Link>
+              )}
+            </div>
           </footer>
         </article>
       </Layout>
