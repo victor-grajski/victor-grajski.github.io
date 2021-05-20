@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -29,10 +29,10 @@ const AboutPage = ({ data }, location) => {
               />
             </figure> */}
 
-            <div class="post-content-body-content-content">
+            <div className="post-content-body-content-content">
               <p>
-                I'm a developer, designer, HCI Master's student at Carnegie
-                Mellon, and musician.
+                I'm a Design Technologist, Product Designer, HCI Master's
+                student at Carnegie Mellon, and musician.
               </p>
 
               <p>

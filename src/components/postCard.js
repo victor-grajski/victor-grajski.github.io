@@ -25,6 +25,7 @@ export default props => (
         <div className="post-card-image-container">
           <img
             className="post-card-image"
+            alt="main project"
             src={props.node.frontmatter.thumbnail.childImageSharp.fluid.src}
           />
         </div>

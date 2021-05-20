@@ -4,7 +4,7 @@ title: Want to Listen
 date: "2020-08-29"
 categories: jekyll update
 permalink: "/want-to-listen"
-description: Save music recommendations for later on Apple Music
+description: Save recommendations on Apple Music
 thumbnail: ./thumbnail.png
 category: Product Design/UX Engineering
 order: 2
@@ -16,10 +16,10 @@ year: 2020
 tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
 linkSource: "GitHub"
-shortDescription: "Want to Listen gives listeners a dedicated space to save recommendations for later on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
+shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
 ---
 
-<iframe style='width:100%; height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
@@ -43,7 +43,6 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
 </div>
 
 <img src="/Empty-State2x.png" alt="empty state" />
-<!-- Apple Music often gives me relevant recommentations, but I'm not always able to follow up on them in the moment -->
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
@@ -61,16 +60,12 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
     </div>
 
 <div class="post-content-body-content-content">
-<p>Adding music Sam is interested in listening to later to their library creates a context conflict because they view the library as a repository of music they already know they want to keep. When following up on Apple Music's recommendation of Modern Mirror by Drab Majesty, they likely won't know they want to keep it until they've listened to it. In addition, if Sam were to add Modern Mirror to their library in an attempt to remember to listen to it, it may get buried in their Recently Added if they add more music to their library, and they will likely forget to follow up on it. Thus, I created a separate space for Sam to manage their recommended music.</p>
-<!-- Want to Listen could serve as a layer intermediate to the Library -->
-
-<p>After reviewing design patterns found in other Apple Media Products, I used a carousel to maintain a consistent mental model across Apple Media Products. Both Apple Podcasts and the Apple TV app have dedicated Up Next carousels, and Apple Books has a Want to Read carousel. Speaking of maintaining a consistent mental model, I named the feature Want to Listen after the Apple Books feature. However, isn't music different? Why not generate a playlist instead? That brings us to my next major design decision.</p>
+<p>Adding music Sam is interested in listening to later to their library creates a context conflict because Sam views the library as a repository of music they already know they want to keep. When following up on Apple Music's recommendation of Modern Mirror by Drab Majesty, they likely won't know they want to keep it until they've listened to it. In addition, if Sam were to add Modern Mirror to their library in an attempt to remember to listen to it, it may get buried in their Recently Added if they add more music to their library, and they will likely forget to follow up on it. Thus, Sam needs a separate space to manage their recommended music.</p>
 
 </div>
 </div>
 
 <img src="/2x-detail-action-sheet.png" alt="detail with action sheet" />
-<img src="/Want-to-Listen.png" alt="want to listen carousel" />
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
@@ -78,9 +73,7 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
     </div>
 
 <div class="post-content-body-content-content">
-<p>Organizing around albums provided flexibility playlists do not while preserving the simplicity playlists afford. This organization allows Sam to add an entire album or certain songs from an album to Want to Listen using the mechanic that already existed when adding music to their library. For example, when Sam adds only one song from an album to their library, a space is created in the Recently Added list with the album artwork, and tapping that artwork shows just the song they added with the option to view the entire album. I wanted to take advantage of this existing mechanic because Sam may only want to add certain songs from Modern Mirror to their Want to Listen.</p>
-
-<p>Furthermore, organizing around albums allowed me to give the Want to Listen carousel prominent placement so I would be more likely to engage with it. I admit to using circular logic, however, I believe Sam is most likely to engage above-the-fold on the home tab, and on that tab, carousels of albums are the organizing principle.</p>
+<p>Why not just make a playlist? Organizing around albums provided flexibility playlists do not while preserving the simplicity playlists afford. This organization allows Sam to add an entire album or certain songs from an album to Want to Listen using the mechanic that already existed when adding music to their library. For example, when Sam adds only one song from an album to their library, a space is created in the Recently Added list with the album artwork, and tapping that artwork shows just the song they added with the option to view the entire album. I used this existing mechanic because Sam may only want to add certain songs from Modern Mirror to their Want to Listen.</p>
 </div>
 </div>
 
@@ -92,7 +85,7 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
     </div>
 
 <div class="post-content-body-content-content">
-<p>Coming back to Sam's original goal of remembering to follow up on Apple Music's recommendation of Modern Mirror by Drab Majesty, when is Sam most likely to remember to follow up on that recommendation? If it's placed front and center on the home tab, Listen Now, right below Top Picks. While this is a bold choice, the current second spot on Listen Now is the Recently Played carousel. Rather than rotating through the same music until Sam gets bored of it, seeing an invitation to go deeper each time they open the app would compel them to engage and keep coming back. Perhaps this is why Apple's Podcasts, TV, and Books apps all prominently feature saved items on their home tabs.</p>
+<p>Coming back to Sam's original goal of remembering to follow up on Apple Music's recommendation of Modern Mirror by Drab Majesty, when is Sam most likely to remember to follow up on that recommendation? If it's placed front and center on the home tab right below Top Picks. While this is a bold choice, the current second spot on the home tab is the Recently Played carousel. Rather than rotating through the same music until Sam gets bored of it, seeing an invitation to go deeper each time they open the app would compel them to engage and keep coming back. After reviewing design patterns found in other Apple Media Products, I used a carousel to maintain a consistent mental model across those applications. Both Apple Podcasts and the Apple TV app have dedicated Up Next carousels, and Apple Books has a Want to Read carousel. Speaking of maintaining a consistent mental model, I named the feature Want to Listen after the Apple Books feature.</p>
 
 </div>
 </div>
@@ -124,9 +117,7 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
 </div>
 </div>
 
-<img src="/detail-dark-mode.jpeg" alt="album detail page dark mode" />
-
-<img src="/listen-now-dark-mode.jpeg" alt="listen now dark mode" />
+<img src="/detail-dark-mode.png" alt="album detail page dark mode" />
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
@@ -134,8 +125,8 @@ shortDescription: "Want to Listen gives listeners a dedicated space to save reco
     </div>
 
 <div class="post-content-body-content-content">
-<p>The main things I would like to implement are adding individual songs as well as artists to Want to Listen. Part of why I went with the carousel approach was to eventually be able to support artist links, something that a playlist approach wouldn't afford. When talking about music, people often recommend artists rather than specific albums, and I believe supporting both would be intuitive to users like Sam. As I mentioned earlier, I also look forward to expanding the concept to other platforms like watchOS and macOS.</p>
+<p>The main things I would like to implement next are adding individual songs as well as artists to Want to Listen. Part of why I went with the carousel approach was to eventually be able to support artist links, something that a playlist approach wouldn't afford. When talking about music, people often recommend artists rather than specific albums, and I believe supporting both would be intuitive to users like Sam. As I mentioned earlier, I also look forward to expanding the concept to other platforms like watchOS and macOS.</p>
 
-<p>Finally, I want to conduct usability tests with users to confirm or deny my hypotheses. While this project was mainly about practicing my prototyping and UX engineering skills assuming a set scenario and target user, I would love to get feedback and refine my design.</p>
+<p>Finally, I want to conduct usability tests to confirm or deny my hypotheses. While this project was mainly about practicing my prototyping and UX engineering skills assuming a set scenario and target user, I would love to get feedback and refine my design.</p>
 </div>
 </div>

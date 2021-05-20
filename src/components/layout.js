@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 // import useSiteMetadata from '../hooks/use-site-metadata';
 
 const Layout = props => {
-  const { title, children, location } = props
+  const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
 
   return (
@@ -68,7 +68,7 @@ const Layout = props => {
             </ul>
           </nav>
 
-          {/* <nav id="swup" class="site-head-left">
+          {/* <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Work</Link>

@@ -732,8 +732,11 @@ body {
   margin: 0;
 }
 
-.post-content-body iframe {
-  /* margin: 0 auto !important; */
+.post-content-body img,
+.post-content-body iframe,
+.gatsby-resp-image-background-image {
+  border-radius: 10px;
+  object-fit: cover;
 }
 
 .post-content-body blockquote {

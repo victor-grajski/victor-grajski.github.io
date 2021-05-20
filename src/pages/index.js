@@ -29,14 +29,16 @@ const BlogIndex = ({ data }, location) => {
             <a
               className="hero-link"
               target="_blank"
+              rel="noreferrer"
               href="https://github.com/victor-grajski"
             >
               Design Technologist
             </a>
             , Product Designer, HCI Master's student at Carnegie Mellon, and{" "}
             <a
-              class="hero-link"
+              className="hero-link"
               target="_blank"
+              rel="noreferrer"
               href="https://soundcloud.com/animistttt"
             >
               musician
@@ -56,7 +58,7 @@ const BlogIndex = ({ data }, location) => {
               key={node.fields.slug}
               count={postCounter}
               node={node}
-              postClass={`post`}
+              postclassName={`post`}
             />
           )
         })}
