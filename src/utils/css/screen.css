@@ -739,6 +739,16 @@ body {
   object-fit: cover;
 }
 
+/* figure {
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+} */
+
+.gatsby-resp-image-figcaption {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
 .post-content-body blockquote {
   margin: 0 0 1.5em;
   padding: 0 1.5em;
