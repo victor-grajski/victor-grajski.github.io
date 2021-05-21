@@ -853,7 +853,7 @@ body {
   margin-top: 100px;
 }
 .post-content-footer a {
-  color: rgb(69, 69, 69);
+  /* color: rgb(69, 69, 69); */
   font-size: 1.8rem;
 }
 .post-content-footer-next {
