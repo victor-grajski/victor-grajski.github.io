@@ -103,7 +103,7 @@ shortDescription: "Giving listeners a dedicated space to save recommendations on
 </div>
 </div>
 
-<iframe style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe class="kg-image" style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
