@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a Design Technologist, Product Designer, HCI Master's student at Carnegie Mellon, and musician. At the risk of sounding cliché, I create technologies that put people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 May 2021 22:53:55 GMT</lastBuildDate><item><title><![CDATA[Want to Listen]]></title><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe class=&quot;kg-image&quot; style=&apos;width:100%;height:700px;margin-top:8vw;&apos; src=&quot;https://www.youtube.com/embed/GusiCJYBcbs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot;&gt;&lt;/iframe&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Victor Grajski]]></title><description><![CDATA[I'm a Design Technologist, Product Designer, HCI Master's student at Carnegie Mellon, and musician. At the risk of sounding cliché, I create technologies that put people first.]]></description><link>https://victor-grajski.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 May 2021 00:13:19 GMT</lastBuildDate><item><title><![CDATA[Want to Listen]]></title><link>https://victor-grajski.github.io/want-to-listen/</link><guid isPermaLink="false">https://victor-grajski.github.io/want-to-listen/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;iframe class=&quot;kg-image&quot; style=&apos;width:100%;height:700px;margin-top:8vw;&apos; src=&quot;https://www.youtube.com/embed/GusiCJYBcbs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot;&gt;&lt;/iframe&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Target User&lt;/h4&gt;
@@ -18,16 +18,16 @@
 &lt;!-- &lt;div class=&quot;post-content-image&quot;&gt;
     &lt;img class=&quot;kg-image&quot; src=&quot;/Empty-State2x.png&quot; alt=&quot;empty state&quot; /&gt;
 &lt;/div&gt; --&gt;
-&lt;p&gt;
-  &lt;span
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 7vw 0;&quot;&gt;
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1333px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 110.58823529411765%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsSAAALEgHS3X78AAACvElEQVQ4y52V/UtTURjH/UPa293d2sSt3ItON0UhpRc1XVo/pFlgZqCViKk4raiRuAobcwYaMs0yTdmma1FiZCtlEmqB/ZD09kPZpq1SCFnt27kLY0hG9154OPfec54Pz/Occ75PnFQqRaxJJJI/o1AohEAgAJ/Pj47MN2Oxazb6x238sb6QMYvFAq/XC7fbDafTCZfLhdbWVojFYvzN759AuVwOn8+H1ZUVBAIBhMNhMM/Tx49A0zQ34KjHg4WFBQQWPyASifwGPvGxBzIpJapUaG4yoa62FufMLWgymTB8qxcdbRxSFolESNXrkWlIQdauAhzvvA9NohqlhbmoKC5kHyEDTE5ORkH+XlQeKsXZqpPIVm9DQ00VLp1vJPMUe2ASARYZ85GTkY4UrR4JJKqykgPI3bmDW4Q6nQ55OTmQk3plpaVBLhIiOzMdSWoV2TQpOyBNIEqlEvZ2O/p7+9B/4yZ6unvg8YzCZrVy2GWaABVKWK/ZYOvtRN/wdbx/5ce7ST8m3A4IRDS2sgFSFIUkrRbF5YchSd2OPUfyYKouwsOS/bDX1IJPiVkCxRTUiSqcPlOPfeUH0XCxGffaOjFjuYor9WSXaQ5XTyaTYWxsDOEfYayuruBbKISfiODZzDQotseGKbpCoUBXVxdu9w/gztAQHrgnMeGdRV/3AJlnGSFTQ41GjRNVp2AsNMJ6+QKKDE3I39KCkoxqSGTiTY/OpkCtVoOy8kroDFkwN9ahYrcZBuooCrKPQSqj2QGZlOPj4+EcGcXc/Dxev32D2emXmHv+gijQXQ56SICMfLkGB/Gd6OHy8md8+RrC2tpaVCNZA6MRJigwaG9HaPEjPhGBXQouIRgMYnx8nD1QSo4NTazb3gH/1FS0BTDyP0XeHQ5HtMb/DYxtQHzSkHikQfF4vKitN6vYvrPR/xc4qRqhsJomqwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
+      style=&quot;padding-bottom: 110.58823529411765%; position: relative; bottom: 0; left: 0; background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
         &lt;source
           srcset=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/51a8e/Empty-State2x.webp 340w,
 /static/8283f7dbdf01f32ec0dc5f4cb8160477/713b7/Empty-State2x.webp 680w,
@@ -44,16 +44,15 @@
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
           src=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png&quot;
-          alt=&quot;empty state meep&quot;
+          alt=&quot;empty state&quot;
           title=&quot;&quot;
-          src=&quot;/static/8283f7dbdf01f32ec0dc5f4cb8160477/f03d3/Empty-State2x.png&quot;
         /&gt;
       &lt;/picture&gt;
-      &lt;/span&gt;
   &lt;/span&gt;
-  &lt;/p&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;empty state&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Key Design Decisions&lt;/h4&gt;
@@ -70,21 +69,21 @@
 &lt;p&gt;Adding music Sam is interested in listening to later to their library creates a context conflict because Sam views the library as a repository of music they already know they want to keep. When following up on Apple Music&apos;s recommendation of Modern Mirror by Drab Majesty, they likely won&apos;t know they want to keep it until they&apos;ve listened to it. In addition, if Sam were to add Modern Mirror to their library in an attempt to remember to listen to it, it may get buried in their Recently Added if they add more music to their library, and they will likely forget to follow up on it. Thus, Sam needs a separate space to manage their recommended music.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAABvUlEQVQ4y52Uy0sCURTG27Rp3R/gW1B0nKbW0SKIgsi0aIQwSIJWkREUGk5NMz56kILWJoSWFaIrS6h/INr2IFCILApcZ22+7r09kLBgXHwc7jlnfvd+9w6nzWKxoFFms/kn6vV6GAwGmEwmmMjaSCLNNfb8/r7td+K7kco3IcLjdkPoFtDNd2FkcAherxdWq7Up7E8gPRHn5BBXVKS2tiGtyZDmF5EkisVicDqdrEcTkHfxUFQVHs8oBEFAT4+AmdkAVJLTDDQajeD5T6A4LsLlEjDqHkBoaQ7RaIzVaI9mYFSNorevH+0dneTezBDHhhGPx8FxnDYgtUNtKYqC5dAKRN8kAoFprMqrzLLD4dB+hxQoyzIOslnsJVPY3Ukiu7/PNmnpUaitcCiEBAEkEglsbmxga13BSjjMapqB1FY6nUa+UEAul2OxWCxiL5PRbpn+tHa7nQBO8PL4hMrVNSo3t3iuPqJUKrFaS8Djo0Pcl8u4u7hkuq9UkM/nWwPabDacnhZRf39D7aGKWrWK17c6zs/OtAO/oX7/FCRJwkIwyBSJREjO/+dgaApsnCQ6ne5TZMLQqP9a/zdtPgB39Aw2HJlR1QAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 7vw 0;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1333px;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;picture&gt;
         &lt;source srcset=&quot;/static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/51a8e/2x-detail-action-sheet.webp 340w,
 /static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/713b7/2x-detail-action-sheet.webp 680w,
 /static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/db048/2x-detail-action-sheet.webp 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/webp&quot;&gt;
         &lt;source srcset=&quot;/static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/ad208/2x-detail-action-sheet.png 340w,
 /static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/a5a26/2x-detail-action-sheet.png 680w,
 /static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/f03d3/2x-detail-action-sheet.png 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/f03d3/2x-detail-action-sheet.png&quot; alt=&quot;detail with action sheet&quot; title&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot; src=&quot;/static/31449f7a4bb6a93e3d4f5b1d3a9e00dc/f03d3/2x-detail-action-sheet.png&quot; alt=&quot;detail with action sheet&quot; title=&quot;&quot;&gt;
       &lt;/picture&gt;
-      &lt;/span&gt;
   &lt;/span&gt;
-  
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;detail with action sheet&lt;/figcaption&gt;
+  &lt;/figure&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Organizing Around Albums&lt;/h4&gt;
@@ -93,21 +92,21 @@
 &lt;p&gt;Why not just make a playlist? Organizing around albums provided flexibility playlists do not while preserving the simplicity playlists afford. This organization allows Sam to add an entire album or certain songs from an album to Want to Listen using the mechanic that already existed when adding music to their library. For example, when Sam adds only one song from an album to their library, a space is created in the Recently Added list with the album artwork, and tapping that artwork shows just the song they added with the option to view the entire album. I used this existing mechanic because Sam may only want to add certain songs from Modern Mirror to their Want to Listen.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACF0lEQVQ4y5WU32uSYRTHve1/cHP6Oi/KH/lrapK0y12tu1p30V1KgQxxm6NfRFBNZQsyaEKKGywMa9ZYa7FwQSyxobkZMb2Ihpdh5UUTPr2vUchow/fi8D7Pyzmf5/me85yj0Ol0dFp/f/+/r1KppKenB0EQ0IqmUqna+06f/fGK/T/+mgSZnAgRGB3F7XbjcDjxeX34/f426H+wA4ESzGw282blFVuFTdbX31Kr1Wi1WpTLZfR6PVqttnugWq3G4/EwMR5i5NwIiWSMRqNBpVIhn89jNBrlAfv6+hgcPIXX58dmP8n9yA1q1SrZxUWKxWL79pKKroEajQanw8HCkwxLr9fY/vyJL1932a3XKZVKmEwmBDk31GgEnAMDxBLzXH+WYza3SWJyjJvDQ8xevYJFPEwQD+0+h6Kzy+Xk1lSEobMXuBaNETw9TEDby4PLFzG7XAhinmVJttvtpBJJ5uNxtneqpNMpPqxl+LiR46jeIK8oUsKtFjPPl1dZye+w/K5CJvWN9HSdmek4NpvMokjONquFrAj0XvJzZyaG4dhLjig2OH/mMc4TJvFpyQGKkm2i5If3Zlh4NMuLpaeE72YZD2xxeyqD1SpWWZAhWerb4xYLq3Nz7DWbNH78pNn8zq+9BoXCewwGmTlsQ8WAUCBIKpkkGo0SDkdIJlMEg2N/evmAOMVh06ZXnC5S10hTRtWxPmza/AaQjiQwCDlmGAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 7vw 0;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1333px;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;picture&gt;
         &lt;source srcset=&quot;/static/04b818b54a23784f020839a795039caa/51a8e/Want-To-Listen-List.webp 340w,
 /static/04b818b54a23784f020839a795039caa/713b7/Want-To-Listen-List.webp 680w,
 /static/04b818b54a23784f020839a795039caa/db048/Want-To-Listen-List.webp 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/webp&quot;&gt;
         &lt;source srcset=&quot;/static/04b818b54a23784f020839a795039caa/ad208/Want-To-Listen-List.png 340w,
 /static/04b818b54a23784f020839a795039caa/a5a26/Want-To-Listen-List.png 680w,
 /static/04b818b54a23784f020839a795039caa/f03d3/Want-To-Listen-List.png 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/04b818b54a23784f020839a795039caa/f03d3/Want-To-Listen-List.png&quot; alt=&quot;want to listen grid&quot; title&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot; src=&quot;/static/04b818b54a23784f020839a795039caa/f03d3/Want-To-Listen-List.png&quot; alt=&quot;want to listen grid&quot; title=&quot;&quot;&gt;
       &lt;/picture&gt;
-      &lt;/span&gt;
   &lt;/span&gt;
-  
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;want to listen grid&lt;/figcaption&gt;
+  &lt;/figure&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Saving for Later in Listen Now&lt;/h4&gt;
@@ -116,21 +115,21 @@
 &lt;p&gt;Coming back to Sam&apos;s original goal of remembering to follow up on Apple Music&apos;s recommendation of Modern Mirror by Drab Majesty, when is Sam most likely to remember to follow up on that recommendation? If it&apos;s placed front and center on the home tab right below Top Picks. While this is a bold choice, the current second spot on the home tab is the Recently Played carousel. Rather than rotating through the same music until Sam gets bored of it, seeing an invitation to go deeper each time they open the app would compel them to engage and keep coming back. After reviewing design patterns found in other Apple Media Products, I used a carousel to maintain a consistent mental model across those applications. Both Apple Podcasts and the Apple TV app have dedicated Up Next carousels, and Apple Books has a Want to Read carousel. Speaking of maintaining a consistent mental model, I named the feature Want to Listen after the Apple Books feature.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAB4ElEQVQ4y52UTWsTURSG+z8S8p0JNZNJBpsYkhC1KGgF0VVNrVn5EUUEKZJF1VhXNZDJB9ogjY0QsnUTAhYXdmvQnVPFbkyMu0p+wuPckZHoQjJeeLmHcw/v5ZzznjMnSRLTCAaDJoTtcDhwOp34/X4TLpfL9Fnv1j2Nub8dFjweD8Vikfvr62QyGVKpNIVCgVKp9MenMxFawYPBAHHG4zGTyeSXPfxKJBIhEAjYIwyHw/T7fYbDIT8OD7HO50/7KErUHqGol6qq1Gs1GtUqrdYLmltb7L15zW7vFbFYzIyZmdDr9ZJKp7lw7izZ46fJN3qoR4+xenGJtet5YtGoPUKfz0c8Hmcll6OwegXt4WOWEip3b9/geW3TLIetlAXhwkKc/OUVzi+eIJvMMu/2cC1/iasGZDlinzCRSJBbXkYJSSwa6Yfcbs6cOkk6mTS6rNgjFMGKoqBpGs2nz2hvt9DKZV62tmnWq+abbULZqNNOu02n0zXk0/stm/HoO2FZtklodFBo7UHxHtXyJp3uDgcHX9B1nd23e8j/I+zQ/BG69QYf339A39f5NhqZEzN4N7A/KVZj7ty8ZQi6yROjfpVKxUi/w8ajDaSgNPssT28SsSAEsRC6sMXtNrr9r23zE9OjFOornmUOAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 7vw 0;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1333px;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;picture&gt;
         &lt;source srcset=&quot;/static/90f58e040ad21aeb924b15be6e492e8e/51a8e/listen-now-full-2x.webp 340w,
 /static/90f58e040ad21aeb924b15be6e492e8e/713b7/listen-now-full-2x.webp 680w,
 /static/90f58e040ad21aeb924b15be6e492e8e/db048/listen-now-full-2x.webp 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/webp&quot;&gt;
         &lt;source srcset=&quot;/static/90f58e040ad21aeb924b15be6e492e8e/ad208/listen-now-full-2x.png 340w,
 /static/90f58e040ad21aeb924b15be6e492e8e/a5a26/listen-now-full-2x.png 680w,
 /static/90f58e040ad21aeb924b15be6e492e8e/f03d3/listen-now-full-2x.png 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/90f58e040ad21aeb924b15be6e492e8e/f03d3/listen-now-full-2x.png&quot; alt=&quot;listen now with want to listen&quot; title&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot; src=&quot;/static/90f58e040ad21aeb924b15be6e492e8e/f03d3/listen-now-full-2x.png&quot; alt=&quot;listen now with want to listen&quot; title=&quot;&quot;&gt;
       &lt;/picture&gt;
-      &lt;/span&gt;
   &lt;/span&gt;
-  
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;listen now with want to listen&lt;/figcaption&gt;
+  &lt;/figure&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Code&lt;/h4&gt;
@@ -149,21 +148,21 @@
 &lt;p&gt;Although I focused on iOS during the UX engineering phase, the wonderful thing about SwiftUI is how much cross-platform foundation there is built-in. Overall, I found SwiftUI to be simple, elegant, and easy to use like most Apple products. With that said, SwiftUI is very new and it wasn&apos;t immediately clear what was or wasn&apos;t possible, and tracking down an answer took up the bulk of my development time. For example, SwiftUI makes it incredibly easy to set up navigation, however, I couldn&apos;t customize what the navigation bar should look like in different display styles without UIKit, and there was little indication in the documentation of what had yet to be implemented in SwiftUI. Luckily I had some UIKit experience to fall back on, and I would advise learning the basics of UIKit before taking on SwiftUI. I understand SwiftUI will continuously improve over time, and I look forward to seeing how it evolves. Being able to declare user interfaces without worrying about state management is truly remarkable. Finally, bonus points to SwiftUI for making dark mode seamless to implement!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 7vw 0 max-width: 1333px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACq0lEQVQ4y22U227TQBCGnUDthBxKmoOdOHbsjR3HxyTkJPUAqG0aqiqNgAtueAEuuAIhyiUgxEvwIrzcz+wmroiai9Wud2a/nf1nxlKv14PruuCz7/uIoxhxvBlhGIp9t+cKH8/zEEXRZoSbmZ/htpQhpUBu0DQNxWIRpVKJRhmVSkU4pZcxmwlbuXyIer0uZqPVgt/3kXLugfw2WZYhKwoyUhbFQhEKrU3TRL/fR5IkYIyh3mjgST5HIw9JkqBIGXEZ99kB8idyYELg6WSM5eIFDKMlouYHBoMBLMtCpVxGraHh4EBG/aiC+TjA+NnoYYQcqCg5sI5DB128XS1g6irahiGAo9EITU1F4vXx5c9frN5/gN9p4dfdR6xvXsGm6Hc0jLdPrtZaqFZbGEQBDstFtNtt8RwOVNUGFqdn+Pn5Dm/OTmC3NHz/9glXlxckR3cXGAYhstksCpQUvdmE2qgLjYwtkD9ZVVXMwgCn8zMw3USDkra+ucbF+cs9QCoRRVYgP5ZRzhdQULjoGXQ6HVEuPCk8Wr3ZxuX1GtFgQhnW8G69xPPTY3QdZxcYBAFyuTzpSKBMVoiezT4SwDTLHcq4qukYzk5g2i6eUoJmSYD5dLKtQ3c3Ql3XqUwM6FRbzaaGWq0Kb1uHvKz4OqaCHo+GKJYKQpIDegW/cG/ZMCoL1u3D8WI4vYjgFgI/EMAwCkV33K5e4/ePr1RengBKmQz5+CTLf0CHFgkBfQqZMRdWN4TFPJiGed9+fuDjeDbH7XKFq8U5PIfhqFoVuoroSecHEboOAe0u/HhK/RuirRuk7RZI4AmNKa0Ny6aiNwRMpc7ZC+QbprnJ6GQyFUngneFssycO0JrZNobDIWazmZCDf3Pbfaekfwk+c2HTm/ge/05t+/a4b+qf2v8BPKOrv4NaEa8AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
+&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;margin: 7vw 0;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1333px;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;picture&gt;
         &lt;source srcset=&quot;/static/d2121319c65f1b84de86cb3081b79762/51a8e/detail-dark-mode.webp 340w,
 /static/d2121319c65f1b84de86cb3081b79762/713b7/detail-dark-mode.webp 680w,
 /static/d2121319c65f1b84de86cb3081b79762/db048/detail-dark-mode.webp 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/webp&quot;&gt;
         &lt;source srcset=&quot;/static/d2121319c65f1b84de86cb3081b79762/ad208/detail-dark-mode.png 340w,
 /static/d2121319c65f1b84de86cb3081b79762/a5a26/detail-dark-mode.png 680w,
 /static/d2121319c65f1b84de86cb3081b79762/f03d3/detail-dark-mode.png 1333w&quot; sizes=&quot;(max-width: 1333px) 100vw, 1333px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/d2121319c65f1b84de86cb3081b79762/f03d3/detail-dark-mode.png&quot; alt=&quot;album detail page dark mode&quot; title&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot; src=&quot;/static/d2121319c65f1b84de86cb3081b79762/f03d3/detail-dark-mode.png&quot; alt=&quot;album detail page dark mode&quot; title=&quot;&quot;&gt;
       &lt;/picture&gt;
-      &lt;/span&gt;
   &lt;/span&gt;
-  
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;album detail page dark mode&lt;/figcaption&gt;
+  &lt;/figure&gt;
 &lt;div class=&quot;post-content-body-content-container&quot;&gt;
     &lt;div class=&quot;post-content-body-content-header&quot;&gt;
         &lt;h4&gt;Next Steps&lt;/h4&gt;
