@@ -11,7 +11,6 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const next = this.props.pageContext.next
     const prev = this.props.pageContext.previous
-    console.log(next)
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -48,7 +47,7 @@ class BlogPostTemplate extends React.Component {
                 <p className="post-content-overivew-stats-header">Role</p>
 
                 {post.frontmatter.role && (
-                  <p class="post-content-overview-stat">
+                  <p className="post-content-overview-stat">
                     {post.frontmatter.role}
                   </p>
                 )}
@@ -57,7 +56,7 @@ class BlogPostTemplate extends React.Component {
                 <p className="post-content-overivew-stats-header">Duration</p>
 
                 {post.frontmatter.duration && (
-                  <p class="post-content-overview-stat">
+                  <p className="post-content-overview-stat">
                     {post.frontmatter.duration}
                   </p>
                 )}
@@ -66,7 +65,7 @@ class BlogPostTemplate extends React.Component {
                 <p className="post-content-overivew-stats-header">Year</p>
 
                 {post.frontmatter.year && (
-                  <p class="post-content-overview-stat">
+                  <p className="post-content-overview-stat">
                     {post.frontmatter.year}
                   </p>
                 )}
@@ -75,7 +74,7 @@ class BlogPostTemplate extends React.Component {
                 <p className="post-content-overivew-stats-header">Tools</p>
 
                 {post.frontmatter.tools && (
-                  <p class="post-content-overview-stat">
+                  <p className="post-content-overview-stat">
                     {post.frontmatter.tools}
                   </p>
                 )}
@@ -83,7 +82,7 @@ class BlogPostTemplate extends React.Component {
             </div>
             <div className="post-content-overview-text-container">
               {post.frontmatter.overview && (
-                <p class="post-content-overview-text">
+                <p className="post-content-overview-text">
                   {post.frontmatter.overview}
                 </p>
               )}
@@ -92,6 +91,7 @@ class BlogPostTemplate extends React.Component {
                 className="project-link-button"
                 href={post.frontmatter.link}
                 target="_blank"
+                rel="noreferrer"
               >
                 View Project on{" "}
                 {post.frontmatter.linkSource && (

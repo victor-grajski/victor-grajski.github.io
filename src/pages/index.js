@@ -8,7 +8,7 @@ import PostCard from "../components/postCard"
 // import "../utils/global.scss"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
-//TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
+// TODO: hero description margin
 const BlogIndex = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
@@ -16,24 +16,29 @@ const BlogIndex = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO
+        title="Portfolio"
+        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+      />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           {/* <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1> */}
           <h6>
-            I'm a designer,{" "}
+            I'm a{" "}
             <a
               className="hero-link"
               target="_blank"
+              rel="noreferrer"
               href="https://github.com/victor-grajski"
             >
-              developer
+              Design Technologist
             </a>
-            , HCI Master's student at Carnegie Mellon, and{" "}
+            , Product Designer, HCI Master's student at Carnegie Mellon, and{" "}
             <a
-              class="hero-link"
+              className="hero-link"
               target="_blank"
+              rel="noreferrer"
               href="https://soundcloud.com/animistttt"
             >
               musician
@@ -53,7 +58,7 @@ const BlogIndex = ({ data }, location) => {
               key={node.fields.slug}
               count={postCounter}
               node={node}
-              postClass={`post`}
+              postclassName={`post`}
             />
           )
         })}
@@ -83,7 +88,8 @@ const indexQuery = graphql`
             description
             category
             color
-            longDescription
+            overview
+            shortDescription
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {

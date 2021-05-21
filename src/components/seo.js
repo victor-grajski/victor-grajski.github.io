@@ -67,6 +67,11 @@ function SEO({ description, lang, meta, keywords, title }) {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          name: `image`,
+          propery: `og:image`,
+          content: `https://live.staticflickr.com/65535/51192397539_1951f11214_c.jpg`,
+        },
       ]
         .concat(
           keywords.length > 0

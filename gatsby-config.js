@@ -1,3 +1,4 @@
+const { nodeModuleNameResolver } = require("typescript")
 const urljoin = require("url-join")
 const siteConfig = require("./siteConfig")
 
@@ -35,10 +36,11 @@ module.exports = {
             options: {
               maxWidth: 1360,
               withWebp: true,
-              showCaptions: true,
+              showCaptions: ["title"],
               markdownCaptions: true,
               quality: 75,
               wrapperStyle: `margin: 7vw 0;`,
+              disableBgImage: true,
             },
           },
           {

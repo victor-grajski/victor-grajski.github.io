@@ -498,8 +498,8 @@ body {
 .post-card-subtitle {
   margin: 0;
   display: inline-block;
-  font-size: 2rem;
-  font-weight: 400;
+  font-size: 1.8rem;
+  font-weight: 300;
   /* max-width: 70%; */
   /* text-align: center; */
   transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
@@ -673,6 +673,7 @@ body {
   background-color: #219897;
   color: whitesmoke;
   border-radius: 10px;
+  font-size: 1.8rem;
 }
 
 .project-link-button:hover {
@@ -731,8 +732,21 @@ body {
   margin: 0;
 }
 
-.post-content-body iframe {
-  /* margin: 0 auto !important; */
+.post-content-body img,
+.post-content-body iframe,
+.gatsby-resp-image-background-image {
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+/* figure {
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+} */
+
+.gatsby-resp-image-figcaption {
+  font-size: 1.5rem;
+  text-align: center;
 }
 
 .post-content-body blockquote {
@@ -839,7 +853,7 @@ body {
   margin-top: 100px;
 }
 .post-content-footer a {
-  color: rgb(69, 69, 69);
+  /* color: rgb(69, 69, 69); */
   font-size: 1.8rem;
 }
 .post-content-footer-next {
