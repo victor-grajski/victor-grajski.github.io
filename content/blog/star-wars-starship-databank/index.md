@@ -6,6 +6,7 @@ categories: jekyll update
 permalink: "/star-wars-starship-databank"
 description: Discover Star Wars Starships and save your favorites
 thumbnail: ./thumbnail.png
+thumbnailTransparent: ./thumbnail-transparent.png
 category: UX Engineering
 order: 1
 color: "#000000"
@@ -16,8 +17,5 @@ year: 2020
 tools: "React Native, Expo, Figma"
 link: "https://github.com/victor-grajski/star-wars-starship-databank"
 linkSource: "GitHub"
-shortDescription: "For a course final project, I designed and developed a native mobile and tablet application for Star Wars fans to learn about starships from the franchise. In two weeks, I created and implemented a responsive design using Figma, React Native, and Expo."
+shortDescription: "For a course final project, I designed and developed a native mobile and tablet application for Star Wars fans. In two weeks, I created and implemented a responsive design using Figma and React Native."
 ---
-
-<!-- TODO: Thumbnail -->
-<!-- TODO: Video -->

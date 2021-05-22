@@ -6,6 +6,7 @@ categories: jekyll update
 permalink: "/want-to-listen"
 description: Save recommendations on Apple Music
 thumbnail: ./thumbnail.png
+thumbnailTransparent: ./thumbnail-transparent.png
 category: Product Design/UX Engineering
 order: 2
 color: "#000000"

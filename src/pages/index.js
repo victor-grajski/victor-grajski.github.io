@@ -97,6 +97,13 @@ const indexQuery = graphql`
                 }
               }
             }
+            thumbnailTransparent {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
