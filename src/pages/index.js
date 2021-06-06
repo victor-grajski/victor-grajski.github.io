@@ -33,8 +33,8 @@ const BlogIndex = ({ data }, location) => {
               href="https://github.com/victor-grajski"
             >
               Design Technologist
-            </a>
-            , Product Designer, HCI Master's student at Carnegie Mellon, and{" "}
+            </a>{" "}
+            with three years of experience and a{" "}
             <a
               className="hero-link"
               target="_blank"
@@ -43,7 +43,7 @@ const BlogIndex = ({ data }, location) => {
             >
               musician
             </a>
-            . At the risk of sounding cliché, I create technologies that put
+            . I'm looking for new opportunities to create technologies that put
             people first.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
