@@ -31,8 +31,8 @@ const AboutPage = ({ data }, location) => {
 
             <div className="post-content-body-content-content">
               <p>
-                I'm a Design Technologist, Product Designer, HCI Master's
-                student at Carnegie Mellon, and musician.
+                I'm a Design Technologist with three years of experience looking
+                for new opportunities. Outside of work, I love to make music!
               </p>
 
               <p>

@@ -21,12 +21,16 @@ export default props => (
           <h3 className="post-card-subtitle">
             {props.node.frontmatter.shortDescription}
           </h3>
+          <div className="post-card-cta">View Project</div>
         </div>
         <div className="post-card-image-container">
           <img
             className="post-card-image"
             alt="main project"
-            src={props.node.frontmatter.thumbnail.childImageSharp.fluid.src}
+            src={
+              props.node.frontmatter.thumbnailTransparent.childImageSharp.fluid
+                .src
+            }
           />
         </div>
       </div>
