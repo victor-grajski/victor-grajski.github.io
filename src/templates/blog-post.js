@@ -93,7 +93,6 @@ class BlogPostTemplate extends React.Component {
                 target="_blank"
                 rel="noreferrer"
               >
-                View Project on{" "}
                 {post.frontmatter.linkSource && (
                   <span>{post.frontmatter.linkSource}</span>
                 )}

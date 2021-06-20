@@ -14,10 +14,10 @@ overview: "For my capstone project for the Carnegie Mellon HCI Master's program,
 role: Design Technologist
 duration: "3 months (ongoing)"
 year: 2021
-tools: "Webflow, Figma"
-link: "https://preview.webflow.com/preview/99p-labs-mhci-2021?utm_medium=preview_link&utm_source=dashboard&utm_content=99p-labs-mhci-2021&preview=93a2a643504e819fd1be587d148be4e1&mode=preview"
-linkSource: "Webflow"
-shortDescription: "My team at Carnegie Mellon and I are reimagining the future of social interaction in automobiles. We are halfway through the project, and to showcase our work so far, I designed and implemented a responsive project website."
+tools: "React, Figma, Netlify"
+link: "https://99p-labs-mhci.netlify.app/"
+linkSource: "View Project Website"
+shortDescription: "My team at Carnegie Mellon and I are reimagining the future of social interaction in automobiles. We are halfway through the project, and to showcase our work so far, I designed and implemented a responsive project website using Figma and React."
 ---
 
 <div class="kg-image" style="margin-top:100px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/547798818?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Are We There Yet?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
