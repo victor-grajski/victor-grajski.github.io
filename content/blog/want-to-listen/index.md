@@ -16,7 +16,7 @@ duration: "4 weeks (1/2 time)"
 year: 2020
 tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
-linkSource: "GitHub"
+linkSource: "View Project on GitHub"
 shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
 ---
 
