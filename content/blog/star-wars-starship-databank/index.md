@@ -19,3 +19,6 @@ link: "https://github.com/victor-grajski/star-wars-starship-databank"
 linkSource: "View Project on GitHub"
 shortDescription: "For a course final project, I designed and developed a native mobile and tablet application for Star Wars fans. In two weeks, I created and implemented a responsive design using Figma and React Native."
 ---
+
+<!-- TODO: update expo sdk version -->
+<!-- TODO: github: how to run -->
