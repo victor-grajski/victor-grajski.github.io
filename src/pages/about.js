@@ -32,20 +32,15 @@ const AboutPage = ({ data }, location) => {
             <div className="post-content-body-content-content">
               <p>
                 I'm a Design Technologist with three years of experience looking
-                for new opportunities. Outside of work, I love to make music!
+                for new opportunities to build functional prototypes and
+                implement design systems. Outside of work, I love to make music!
               </p>
 
               <p>
-                Through studying at Carnegie Mellon and UC Berkeley, as well as
-                interning on Apple's Media Products Design team, I have fully
-                realized my desire to work in UX because I can bring my whole
-                self into the product development process.
-              </p>
-              <p>
-                I'm excited by the opportunities working in UX opens up to
-                empathize with users and build polished, beautiful artifacts
-                that meet their needs while maintaining feasibility and are
-                mindful of the business' needs.
+                Studying at Carnegie Mellon and UC Berkeley – as well as
+                interning on Apple's Media Products Design team – helped me
+                fully realize my passion for UX because I was able to bring my
+                whole self into building products.
               </p>
 
               <p>
