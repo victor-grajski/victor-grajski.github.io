@@ -20,7 +20,6 @@ linkSource: "View Project on GitHub"
 shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
 ---
 
-<!-- TODO: github: how to run -->
 <iframe class="kg-image" style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 <div class="post-content-body-content-container">
