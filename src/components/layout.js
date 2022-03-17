@@ -57,7 +57,7 @@ const Layout = props => {
               <li className="nav-elements" role="menuitem">
                 <a
                   id="last-nav-element"
-                  href="https://drive.google.com/file/d/1o7P6sPWuRYm1AmDkpq3dlovlq4A25XXK/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1kuq69ZIot74zzfVz3BAQ498KpzExQqqX/view?usp=sharing"
                   title="Resume"
                   target="_blank"
                   rel="noopener noreferrer"
