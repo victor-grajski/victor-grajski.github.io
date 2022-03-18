@@ -4,34 +4,36 @@ title: Honda Capstone
 date: "2020-12-21"
 categories: jekyll update
 permalink: "/mhci-capstone"
-description: Reifying the future of social interaction in automobiles
+description: Reifying family interaction in automobiles
 thumbnail: ./thumbnail.png
 thumbnailTransparent: ./thumbnail-transparent.png
 category: UX Engineering
 order: 3
 color: "#000000"
-overview: "For my Carnegie Mellon HCI Master's Capstone project, I worked with a team of researchers and designers to reimagine family interaction in cars with our client, 99P Labs, an innovation lab within Honda. We ultimately developed Swervo, a product-service ecosystem that reimagines the car as a game console with the goal of fostering connection for families through unique combinations of play, interaction modalities, and the affordances of the car. My main contribution was building and user testing a smartphone-controlled robot, affectionately named Martin, using Arduino and Raspberry Pi, both of which I learned on-the-fly. Martin combines haptic and kinetic input, the movement of the car, and cooperative play to create shared presence for families. I also designed and built a responsive project website in React and Figma. Check out the project website and my GitHub to learn more about Martin."
+overview: "For my Carnegie Mellon MHCI Capstone project, I worked with a team of researchers and designers to reimagine family interaction in cars with our client, 99P Labs, an innovation lab within Honda. We ultimately developed Swervo, a product-service ecosystem that reframes the car as a game console with the goal of fostering connection for families through unique combinations of play, interaction modalities, and the affordances of the car. My main contribution was building and user testing a smartphone-controlled robot, affectionately named Martin, using Arduino and Raspberry Pi, both of which I learned on-the-fly. I also designed and built a responsive project website in React and Figma."
 role: Design Technologist
 duration: "7 months"
 year: 2021
 tools: "Arduino, Raspberry Pi, React, Figma"
 link: "https://playswervo.netlify.app/"
 linkSource: "View Project Website"
-shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I reimagined family interaction in cars by recasting the car as a game console. In the process, I built and user tested a robot using Arduino and Raspberry Pi as well as a responsive project website."
+shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I reimagined family interaction in cars by reframing the car as a game console. In the process, I built and user tested a robot using Arduino and Raspberry Pi as well as a responsive project website."
 ---
 
 <!-- TODO: mini case study -->
 <!-- TODO: martin takeaways: learned physical computing on-the-fly -->
 <!-- TODO: martin next steps: build native app -->
+<!-- TODO: martin: link to github -->
 <!-- TODO: add website content -->
 <!-- <div class="kg-image" style="margin-top:100px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/547798818?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Are We There Yet?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
-        <h4>Target User</h4>
+        <h4>Martin</h4>
     </div>
 
 <div class="post-content-body-content-content">
+<p>Martin combines haptic and kinetic input, the movement of the car, and cooperative play to create shared presence for families.</p>
 <p>What sets Martin apart most is that the seat itself becomes the controller and players have to physically move to use it. Reframing this affordance of the car points the way to numerous use cases for existing sensors and opportunities to introduce new sensors.</p>
 ‍
 <p>To test the basic viability of this combination of interaction, movement, and cooperation, the first version of Martin used foamcore, pool noodles, and Legos. Our participants used the static car simulator seats as controllers to collaboratively navigate a maze using a marble, hence the codename. Even with this simple, analog prototype, players laughed together often, and they were highly motivated to complete the maze.</p>
@@ -42,7 +44,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
-        <h4>Target User</h4>
+        <h4></h4>
     </div>
 
 <div class="post-content-body-content-content">
@@ -58,7 +60,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
-        <h4>Target User</h4>
+        <h4></h4>
     </div>
 
 <div class="post-content-body-content-content">
@@ -70,7 +72,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
-        <h4>Target User</h4>
+        <h4></h4>
     </div>
 
 <div class="post-content-body-content-content">
@@ -82,7 +84,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
-        <h4>Target User</h4>
+        <h4></h4>
     </div>
 
 <div class="post-content-body-content-content">
