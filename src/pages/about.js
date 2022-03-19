@@ -19,7 +19,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <div className="post-content-body-content-container">
             <div className="post-content-body-content-header">
-              <h5>Hi, I'm Victor Grajski.</h5>
+              <h5>Hi, I'm Victor.</h5>
             </div>
 
             {/* <figure className="kg-card kg-image-card">
@@ -33,7 +33,20 @@ const AboutPage = ({ data }, location) => {
               <p>
                 I'm a Design Technologist with three years of experience looking
                 for new opportunities to build functional prototypes and
-                implement design systems. Outside of work, I love to make music!
+                implement design systems. My current side project is learning
+                Unity with the goal of building something fun and musical
+                with&nbsp;
+                <a
+                  href="https://chuck.cs.princeton.edu/chunity/"
+                  target="_blank"
+                >
+                  Chunity
+                </a>
+                . Outside of work, I love to make{" "}
+                <a href="https://soundcloud.com/animistttt" target="_blank">
+                  music
+                </a>
+                !
               </p>
 
               <p>
