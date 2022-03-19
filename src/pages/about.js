@@ -19,7 +19,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <div className="post-content-body-content-container">
             <div className="post-content-body-content-header">
-              <h5>Hi, I'm Victor Grajski.</h5>
+              <h5>Hi, I'm Victor.</h5>
             </div>
 
             {/* <figure className="kg-card kg-image-card">

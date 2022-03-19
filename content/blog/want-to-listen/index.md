@@ -10,14 +10,14 @@ thumbnailTransparent: ./thumbnail-transparent.png
 category: Product Design/UX Engineering
 order: 2
 color: "#000000"
-overview: "Listeners receive recommendations from friends and applications like Apple Music often, yet equally often, they forget to follow up on those recommendations. Want to Listen gives listeners a dedicated space to save recommendations for later on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
+overview: "Listeners receive recommendations from friends and applications like Apple Music often, yet equally often, they forget to follow up on those recommendations. Want to Listen gives listeners a dedicated space to save recommendations for later on Apple Music. Over the course of two weeks, I researched Apple Media Products applications, determined a target user and scenario, designed in Sketch, and built a functional prototype using Swift and SwiftUI."
 role: Design Technologist, Product Designer
-duration: "4 weeks (1/2 time)"
+duration: "2 weeks"
 year: 2020
 tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
 linkSource: "View Project on GitHub"
-shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of four weeks (1/2 time), I researched Apple Media Products applications, determined a target user and scenario, crafted a design in Sketch, and implemented it using Swift and SwiftUI."
+shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of two weeks, I researched Apple Media Products applications, determined a target user and scenario, designed in Sketch, and built a functional prototype using Swift and SwiftUI."
 ---
 
 <iframe class="kg-image" style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
