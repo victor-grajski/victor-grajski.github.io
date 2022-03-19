@@ -87,12 +87,8 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 <p>As a proof of concept for combining a seat controller, car movement, and cooperative play, Martin was a resounding success, and it points to a number of opportunities for further iteration. As mentioned, younger kids in car seats often disengaged because it was hard to use their seat as the controller, and even older kids faced difficulty with it, especially forward and backward movement. An easy way to alleviate this would be to use the bottom of the seat solely for left-to-right motion and place a sensor in the backrest that would control the forward-backward movement because using one’s upper body to control that axis is much easier in a car than using one’s lower body. Placing sensors in both parts of the seat would also keep players in a safe seating position because kids had to move all over the place to play our prototype!</p>
 ‍
 <p>Another opportunity lies in customizing game boards. As mentioned earlier, kids loved being able to express themselves and share their creations, and this is exactly what Lego leverages with its Lego Life social media platform. In future iterations, we would want to emulate Lego to create a new venue for expression and play to open up opportunities for cross-car connection.</p>
-
-<p>On a personal note, I thoroughly enjoyed working on a team of fellow designers and researchers. I experienced firsthand how impactful rapidly ideating, building, and testing functional prototypes can be, and I've been hooked since! I also feel a deep sense of accomplishment having learned Arduino and Raspberry Pi on-the-fly to build something that brought joy to families, and I only wish our team had more time to continue iterating. While we robustly evaluated our ideas, I'm most proud of how generative and creative our team was, if I do say so myself. They gave me the opportunity to let my creativity run wild and express that creativity through the medium of code, something which I have carried with me since, and I am eternally grateful for that.</p>
 </div>
 </div>
-
-![team](./team.JPG)
 
 <div class="post-content-body-content-container">
     <div class="post-content-body-content-header">
@@ -100,7 +96,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
     </div>
 
 <div class="post-content-body-content-content">
-<p>In addition to building and testing Martin, I designed and built two major versions of our responsive project website: one during the Spring semester, and another during the Summer semester using Figma. I built <a href="https://99p-labs-mhci-2021.webflow.io" target="_blank">the Spring version</a> with Webflow since I hadn't used it before and wanted to try it, and I built the Summer version in React which built off of some of the earlier Webflow work.</p>
+<p>In addition to building and testing Martin, I designed and built two major versions of our responsive project website: one during the Spring semester, and another during the Summer semester, using Figma. I built <a href="https://99p-labs-mhci-2021.webflow.io" target="_blank">the Spring version</a> with Webflow since I hadn't used it before and wanted to try it, and I built the Summer version in React which built off of the earlier Webflow work.</p>
 
 <p>The Spring semester focused on research, and at the time, our team had identified a gap between what people say about the car and what they do in it. They told us their time in the car felt wasted, yet they also used the car as a respite from the demands of everyday life. We encapsulated this tension into a video which I featured on the homepage because of the immediate, visceral engagement it invited.</p>
 
@@ -116,9 +112,20 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
     </div>
 
 <div class="post-content-body-content-content">
-<p>In contrast, the visual coherence in <a href="https://playswervo.netlify.app" target="_blank">our Summer website</a> reflected the clarity our team worked hard to achieve. Through rapidly ideating, building, and testing – as evidenced by Martin – we were able to hone in on families as our target users, and we decided to focus on play as a means of connection. We reflected this distillation in the use of playful, bright colors, simple shapes, and a retention of some hand-drawn elements. I did retain the glossiness of full-width videos and images, however, they purposefully featured families to make our intended user clear. To ease the reading experience, I minimized the use of two-column layouts, saving them for important callouts at the beginning of new sections. In the vein of formalism giving way to playfulness, I chose the more playful, rounded Comfortaa typeface over Apple Garamond.</p>
-
+<p>In contrast, the visual coherence in <a href="https://playswervo.netlify.app" target="_blank">our Summer website</a> reflected the clarity our team worked hard to achieve. Through rapidly ideating, building, and testing – as evidenced by Martin – we honed in on families as our target users, and we decided to focus on play as a means of connection. To that end, the site featured playful, bright colors, simple shapes, and hand-drawn elements. It did retain the glossiness of full-width videos and images, however, they purposefully featured families to make our intended user clear. To ease the reading experience, it minimized the use of two-column layouts, saving them for important callouts at the beginning of new sections. In the vein of formalism giving way to playfulness, we chose the more playful, rounded Comfortaa typeface over Apple Garamond.</p>
 </div>
 </div>
 
-![empty state](./thumbnail.png)
+![empty state](./thumbnail-summer-website.png)
+
+<div class="post-content-body-content-container">
+    <div class="post-content-body-content-header">
+        <h4>Takeaways</h4>
+    </div>
+
+<div class="post-content-body-content-content">
+<p>On a personal note, I thoroughly enjoyed working on a team of fellow designers and researchers. I experienced firsthand how impactful rapidly ideating, building, and testing functional prototypes can be, and I've been hooked since! I also feel a deep sense of accomplishment having learned Arduino and Raspberry Pi on-the-fly to build something that brought joy to families, and I only wish our team had more time to continue iterating. While we robustly evaluated our ideas, I'm most proud of how generative and creative our team was, if I do say so myself. They gave me the opportunity to let my creativity run wild and express that creativity through the medium of code, something I will carry with me, and I am eternally grateful for that.</p>
+</div>
+</div>
+
+![team](./team.JPG)
