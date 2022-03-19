@@ -43,7 +43,7 @@ const BlogIndex = ({ data }, location) => {
             >
               musician
             </a>
-            . I'm excitedly learning Unity and looking for new opportunities to
+            . I'm currently learning Unity and looking for new opportunities to
             build things that put people first.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}

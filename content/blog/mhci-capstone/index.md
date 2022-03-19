@@ -10,7 +10,7 @@ thumbnailTransparent: ./thumbnail-transparent.png
 category: UX Engineering
 order: 3
 color: "#000000"
-overview: "For my Carnegie Mellon MHCI Capstone project, I worked with a team of researchers and designers to reimagine family interaction in cars with our client, 99P Labs, an innovation lab within Honda. We ultimately developed Swervo, a product-service ecosystem that reframes the car as a game console with the goal of fostering connection for families through unique combinations of play, interaction modalities, and the affordances of the car. My main contribution was building and user testing a smartphone-controlled robot, affectionately named Martin, using Arduino and Raspberry Pi, both of which I learned on-the-fly. I also designed and built a responsive project website in React and Figma."
+overview: "For my Carnegie Mellon MHCI Capstone project, I worked within a team of researchers and designers to reimagine family interaction in cars with our client, 99P Labs, an innovation lab within Honda. We ultimately developed Swervo, a product-service ecosystem that reframes the car as a game console with the goal of fostering connection for families through unique combinations of play, interaction modalities, and the affordances of the car. My main contribution was building and user testing a smartphone-controlled robot, affectionately named Martin, using Arduino and Raspberry Pi, both of which I learned on-the-fly. I also designed and built a responsive project website in React and Figma."
 role: Design Technologist
 duration: "7 months"
 year: 2021
@@ -20,9 +20,6 @@ linkSource: "View Project Website"
 shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I reimagined family interaction in cars by reframing the car as a game console. In the process, I built and user tested a robot using Arduino and Raspberry Pi as well as a responsive project website."
 ---
 
-<!-- TODO: mini case study -->
-<!-- TODO: martin takeaways: learned physical computing on-the-fly -->
-<!-- TODO: martin next steps: build native app -->
 <!-- TODO: martin: link to github -->
 <!-- TODO: add website content -->
 <!-- <div class="kg-image" style="margin-top:100px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/547798818?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Are We There Yet?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
@@ -36,7 +33,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 <p>Martin combines haptic and kinetic input, the movement of the car, and cooperative play to create shared presence for families.</p>
 <p>What sets Martin apart most is that the seat itself becomes the controller and players have to physically move to use it. Reframing this affordance of the car points the way to numerous use cases for existing sensors and opportunities to introduce new sensors.</p>
 ‍
-<p>To test the basic viability of this combination of interaction, movement, and cooperation, the first version of Martin used foamcore, pool noodles, and Legos. Our participants used the static car simulator seats as controllers to collaboratively navigate a maze using a marble, hence the codename. Even with this simple, analog prototype, players laughed together often, and they were highly motivated to complete the maze.</p>
+<p>To test the basic viability of this combination of interaction, movement, and cooperation, the first version of Martin used foamcore, pool noodles, and Legos. Participants used our static car simulator seats as controllers to collaboratively navigate a maze using a marble. Even with this simple, analog prototype, players laughed together often, and they were highly motivated to complete the maze.</p>
 </div>
 </div>
 
@@ -64,7 +61,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
     </div>
 
 <div class="post-content-body-content-content">
-<p>Testing with families confirmed that Martin successfully fostered cooperation and connection. Players loved how they had to physically move in order to control the game, and parents loved how their kids had to talk to each other and work together in order to play. To add an element of personalization to Martin, we allowed kids to create their own custom Lego game boards. Kids loved being able to express their creativity, and they wanted to keep playing with new boards and try ones that others created.</p>
+<p>Testing with families confirmed that Martin successfully fostered cooperation and connection. Players loved how they had to physically move in order to control the game, and parents loved how their kids had to talk to each other and work together in order to play. To add personalization to Martin, we allowed kids to create their own custom Lego game boards. Kids loved being able to express their creativity, and they wanted to keep playing with new boards and try ones that others created.</p>
 </div>
 </div>
 
@@ -76,7 +73,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
     </div>
 
 <div class="post-content-body-content-content">
-<p>One thing that became clear with Martin is that the ideal age range skews slightly older than some of our other prototypes. Kids older than 6 engaged immediately, however, younger kids, especially those in car seats, struggled to move the board with their seat, and they disengaged as a result. Older kids also found controlling Martin challenging, however, this challenge motivated them and deepened their engagement.</p>
+<p>One thing that became clear with Martin is that the ideal age range skewed slightly older than some of our other prototypes. Kids older than 6 engaged immediately, however, younger kids, especially those in car seats, struggled to move the board with their seat, and they disengaged as a result. Older kids also found controlling Martin challenging, however, this challenge motivated them and deepened their engagement.</p>
 </div>
 </div>
 
@@ -91,5 +88,7 @@ shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I 
 <p>As a proof of concept for combining a seat controller, car movement, and cooperative play, Martin was a resounding success, and it points to a number of opportunities for further iteration. As mentioned, younger kids in car seats often disengaged because it was hard to use their seat as the controller, and even older kids faced difficulty with it, especially forward and backward movement. An easy way to alleviate this would be to use the bottom of the seat solely for left-to-right motion and place a sensor in the backrest that would control the forward-backward movement because using one’s upper body to control that axis is much easier in a car than using one’s lower body. Placing sensors in both parts of the seat would also keep players in a safe seating position because kids had to move all over the place to play our prototype!</p>
 ‍
 <p>Another opportunity lies in customizing game boards. As mentioned earlier, kids loved being able to express themselves and share their creations, and this is exactly what Lego leverages with its Lego Life social media platform. In future iterations, we would want to emulate Lego to create a new venue for expression and play to open up opportunities for cross-car connection.</p>
+
+<p>On a personal note, I thoroughly enjoyed working on a team of fellow designers and researchers. I experienced firsthand how impactful rapidly ideating, building, and testing functional prototypes can be, and I've been hooked since! I also feel a deep sense of accomplishment having learned Arduino and Raspberry Pi on-the-fly to build something that brought joy to families, and I only wish our team had more time to continue iterating. While we robustly evaluated our ideas, I'm most proud of how generative and creative our team was, if I do say so myself. They gave me the opportunity to let my creativity run wild and express that creativity through the medium of code, something which I have carried with me since, and I am eternally grateful for that.</p>
 </div>
 </div>
