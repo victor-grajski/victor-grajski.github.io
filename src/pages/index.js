@@ -43,8 +43,8 @@ const BlogIndex = ({ data }, location) => {
             >
               musician
             </a>
-            . I'm currently learning Unity and looking for new opportunities to
-            build things that put people first.
+            . I'm currently looking for new opportunities to build things that
+            put people first.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}
