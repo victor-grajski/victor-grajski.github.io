@@ -930,6 +930,11 @@ body {
   margin-top: 8vw;
 }
 
+.post-content-body-content-container.full-width {
+  margin-top: 1vw;
+  padding: 0 5vw;
+}
+
 .post-content-body-content-header {
   width: 50%;
 }
@@ -953,6 +958,10 @@ body {
 @media (max-width: 850px) {
   .post-content-body-content-container {
     flex-direction: column;
+  }
+  .post-content-body-content-container.full-width {
+    margin-top: 0;
+    padding: 0;
   }
   .post-content-body-content-header {
     width: 100%;
