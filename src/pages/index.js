@@ -32,9 +32,9 @@ const BlogIndex = ({ data }, location) => {
               rel="noreferrer"
               href="https://github.com/victor-grajski"
             >
-              Design Technologist
+              Design Prototyper
             </a>{" "}
-            with three years of experience and a{" "}
+            and a{" "}
             <a
               className="hero-link"
               target="_blank"
@@ -43,8 +43,8 @@ const BlogIndex = ({ data }, location) => {
             >
               musician
             </a>
-            . I'm currently looking for new opportunities to build things that
-            put people first.
+            . I love making angsty, shoegazey alternative rock and using code as
+            a creative material to explore the right thing to build.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}
