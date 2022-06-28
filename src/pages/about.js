@@ -31,13 +31,12 @@ const AboutPage = ({ data }, location) => {
 
             <div className="post-content-body-content-content">
               <p>
-                I'm a Design Technologist with three years of experience looking
-                for new opportunities to build functional prototypes and
-                implement design systems. Outside of work, I love to make{" "}
+                I'm a Design Prototyper and a{" "}
                 <a href="https://soundcloud.com/animistttt" target="_blank">
-                  music
+                  musician
                 </a>
-                !
+                . I love making angsty, shoegazey alternative rock and using
+                code as a creative material to explore the right thing to build.
               </p>
 
               <p>
