@@ -11,7 +11,7 @@ category: UX Engineering
 order: 3
 color: "#000000"
 overview: "For my Carnegie Mellon MHCI Capstone project, I worked within a team of researchers and designers to reimagine family interaction in cars with our client, 99P Labs, an innovation lab within Honda. We ultimately developed Swervo, a product-service ecosystem that reframes the car as a game console with the goal of fostering connection for families through unique combinations of play, interaction modalities, and the affordances of the car. My main contribution was building and user testing a smartphone-controlled robot, affectionately named Martin, using Arduino and Raspberry Pi, both of which I learned on-the-fly. I also designed and built a responsive project website in React and Figma."
-role: Design Technologist
+role: Design Engineer
 duration: "7 months"
 year: 2021
 tools: "Arduino, Raspberry Pi, React, Figma"

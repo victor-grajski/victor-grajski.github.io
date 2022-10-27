@@ -31,7 +31,7 @@ const AboutPage = ({ data }, location) => {
 
             <div className="post-content-body-content-content">
               <p>
-                I'm a Design Prototyper and a{" "}
+                I'm a Design Engineer and a{" "}
                 <a href="https://soundcloud.com/animistttt" target="_blank">
                   musician
                 </a>

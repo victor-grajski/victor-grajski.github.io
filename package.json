@@ -40,7 +40,8 @@
     "typeface-nunito": "^0.0.72",
     "typescript": "^3.8.3",
     "url-join": "^4.0.0",
-    "utf-8-validate": "^5.0.2"
+    "utf-8-validate": "^5.0.2",
+    "source-map": "^0.8.0-beta.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
@@ -79,5 +80,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "resolutions": {
+    "source-map": "^0.8.0-beta.0"
   }
 }
