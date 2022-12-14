@@ -43,8 +43,8 @@ const BlogIndex = ({ data }, location) => {
             >
               musician
             </a>
-            . I love making angsty, shoegazey alternative rock and using code as
-            a creative material to explore the right thing to build.
+            . I love making shoegazey alternative rock and using code as a
+            creative material to explore the right thing to build.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}

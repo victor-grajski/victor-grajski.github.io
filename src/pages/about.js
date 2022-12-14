@@ -35,8 +35,8 @@ const AboutPage = ({ data }, location) => {
                 <a href="https://soundcloud.com/animistttt" target="_blank">
                   musician
                 </a>
-                . I love making angsty, shoegazey alternative rock and using
-                code as a creative material to explore the right thing to build.
+                . I love making shoegazey alternative rock and using code as a
+                creative material to explore the right thing to build.
               </p>
 
               <p>
