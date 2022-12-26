@@ -32,7 +32,7 @@ const BlogIndex = ({ data }, location) => {
               rel="noreferrer"
               href="https://github.com/victor-grajski"
             >
-              Design Prototyper
+              Design Engineer
             </a>{" "}
             and a{" "}
             <a
