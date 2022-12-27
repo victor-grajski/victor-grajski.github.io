@@ -36,7 +36,8 @@ const AboutPage = ({ data }, location) => {
                   musician
                 </a>
                 . I love making shoegazey alternative rock and using code as a
-                creative material to explore the right thing to build.
+                creative material to reveal novel, useful insights about how
+                people work in order to converge on the right thing to build.
               </p>
 
               <p>
