@@ -16,6 +16,6 @@ duration: "2 months"
 year: 2022
 tools: "React, Next.js, Vercel, Figma"
 link: "https://peacock-onboarding-prototype.vercel.app/"
-linkSource: "View Prototype (password protected)"
+linkSource: "View Prototype (protected)"
 shortDescription: "For my second project at Peacock, I led prototyping for a new and improved onboarding experience. It was a wonderful opportunity to lead, work with designers early in the process, play a pivotal role in a lab session, and push the limits of my skills implementing interactions and animations."
 ---
