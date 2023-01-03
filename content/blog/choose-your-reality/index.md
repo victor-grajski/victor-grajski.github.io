@@ -16,6 +16,6 @@ duration: "3 months"
 year: 2022
 tools: "React, GraphQL, Next.js, Vercel, Figma"
 link: "https://peacock-prototype-web.vercel.app/"
-linkSource: "View Prototype (password protected)"
+linkSource: "View Prototype (protected)"
 shortDescription: "For my first project at Peacock, I had the privilege of prototyping a new feature that allows storytellers to add interactivity to TV shows and movies. My main contribution was implementing the interactive modal functionality, styling, and animations as well as overseeing a round of user testing."
 ---
