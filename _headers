@@ -63,16 +63,6 @@
   Link: </component---src-templates-blog-post-js-fb10d29af94fc433db45.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/mhci-capstone/page-data.json>; rel=preload; as=fetch; crossorigin
-/peacock-onboarding/
-  Link: </webpack-runtime-786d1d60f30d148cfffd.js>; rel=preload; as=script
-  Link: </styles-29147cbc04bbc833f6a0.js>; rel=preload; as=script
-  Link: </framework-1b18bdb6710558530441.js>; rel=preload; as=script
-  Link: </app-fcfe4161b0f1da041e7c.js>; rel=preload; as=script
-  Link: </cff55d511386ec74739def37b0fb34db60ca3c53-03c9fd154db2b1d8cd91.js>; rel=preload; as=script
-  Link: </57950ccc9443719206bdaeaf32586ee42d583f4e-bca395244590fb0d3993.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-fb10d29af94fc433db45.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/peacock-onboarding/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-786d1d60f30d148cfffd.js>; rel=preload; as=script
   Link: </styles-29147cbc04bbc833f6a0.js>; rel=preload; as=script
