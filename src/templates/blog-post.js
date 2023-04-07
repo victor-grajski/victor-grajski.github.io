@@ -11,14 +11,8 @@ const BlogPostTemplate = props => {
   const next = props.pageContext.next
   const prev = props.pageContext.previous
 
-  if (post.frontmatter.noIndex) {
-    const crypted = CryptoJS.AES.encrypt(
-      JSON.stringify(post),
-      `${process.env.GATSBY_PORTFOLIO_PIECE_PASSWORD}`
-    ).toString()
-  }
   // the decrypted content
-  const [decrypted, setDecrypted] = useState("")
+  const [decrypted, setDecrypted] = useState(false)
   // save user input
   const [password, setPassword] = useState("")
 
@@ -132,15 +126,12 @@ const BlogPostTemplate = props => {
               onChange={e => setPassword(e.target.value)}
               onKeyUp={e => {
                 if (e.key === "Enter") {
-                  try {
-                    setDecrypted(
-                      CryptoJS.AES.decrypt(
-                        JSON.stringify(post),
-                        password
-                      ).toString()
-                    )
-                  } catch (e) {
-                    alert("password error")
+                  if (
+                    password === process.env.GATSBY_PORTFOLIO_PIECE_PASSWORD
+                  ) {
+                    setDecrypted(true)
+                  } else {
+                    alert("Please try again")
                   }
                 }
               }}
@@ -150,15 +141,12 @@ const BlogPostTemplate = props => {
                 <div
                   className="button primary"
                   onClick={() => {
-                    try {
-                      setDecrypted(
-                        CryptoJS.AES.decrypt(
-                          JSON.stringify(post),
-                          password
-                        ).toString()
-                      )
-                    } catch (e) {
-                      alert("password error")
+                    if (
+                      password === process.env.GATSBY_PORTFOLIO_PIECE_PASSWORD
+                    ) {
+                      setDecrypted(true)
+                    } else {
+                      alert("Please try again")
                     }
                   }}
                 >
