@@ -18,6 +18,7 @@ tools: "Arduino, Raspberry Pi, React, Figma"
 link: "https://playswervo.netlify.app/"
 linkSource: "View Project Website"
 shortDescription: "For our Carnegie Mellon MHCI Capstone project, my team and I reimagined family interaction in cars by reframing the car as a game console. In the process, I built and user tested a robot using Arduino and Raspberry Pi as well as a responsive project website."
+noIndex: false
 ---
 
 <!-- <div class="kg-image" style="margin-top:100px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/547798818?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Are We There Yet?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->

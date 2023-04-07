@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "bufferutil": "^4.0.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
     "gatsby": "^2.19.23",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
@@ -33,6 +35,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
+    "source-map": "^0.8.0-beta.0",
     "typeface-alegreya": "^0.0.69",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.54",
@@ -40,8 +43,7 @@
     "typeface-nunito": "^0.0.72",
     "typescript": "^3.8.3",
     "url-join": "^4.0.0",
-    "utf-8-validate": "^5.0.2",
-    "source-map": "^0.8.0-beta.0"
+    "utf-8-validate": "^5.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
