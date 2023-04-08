@@ -21,7 +21,10 @@ export default props => (
           <h3 className="post-card-subtitle">
             {props.node.frontmatter.shortDescription}
           </h3>
-          <div className="post-card-cta">View Project</div>
+          <div className="post-card-cta">
+            View Project{" "}
+            {props.node.frontmatter.noIndex && "(Password Protected)"}
+          </div>
         </div>
         <div className="post-card-image-container">
           <img

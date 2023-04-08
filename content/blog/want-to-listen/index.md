@@ -18,6 +18,7 @@ tools: "Swift, SwiftUI, Sketch"
 link: "https://github.com/victor-grajski/WantToListen"
 linkSource: "View Project on GitHub"
 shortDescription: "Giving listeners a dedicated space to save recommendations on Apple Music. Over the course of two weeks, I researched Apple Media Products applications, determined a target user and scenario, designed in Sketch, and built a functional prototype using Swift and SwiftUI."
+noIndex: false
 ---
 
 <iframe class="kg-image" style='width:100%;height:700px;margin-top:8vw;' src="https://www.youtube.com/embed/GusiCJYBcbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>

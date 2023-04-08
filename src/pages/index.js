@@ -91,6 +91,7 @@ const indexQuery = graphql`
             color
             overview
             shortDescription
+            noIndex
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {
