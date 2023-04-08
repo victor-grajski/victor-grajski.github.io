@@ -34,7 +34,7 @@ const BlogPostTemplate = props => {
           <p className="post-content-excerpt">
             {!post.frontmatter.noIndex || decrypted
               ? post.frontmatter.description
-              : "Please enter password to view this piece"}
+              : "This piece is password protected"}
           </p>
         )}
 
