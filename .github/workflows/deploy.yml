@@ -1,0 +1,53 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - run: npm ci
+      - run: npm run format
+      - run: npm run test
+      
+      - name: Generate prod env file
+        env:
+          GATSBY_PORTFOLIO_PIECE_PASSWORD: ${{ secrets.GATSBY_PORTFOLIO_PIECE_PASSWORD }}
+        run: |
+          touch .env.production
+          echo GATSBY_PORTFOLIO_PIECE_PASSWORD="$GATSBY_PORTFOLIO_PIECE_PASSWORD" >> .env.production
+        shell: bash
+
+      - run: npm run build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
