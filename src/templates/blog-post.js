@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
-import CryptoJS from "crypto-js"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
