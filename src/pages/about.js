@@ -31,13 +31,9 @@ const AboutPage = ({ data }, location) => {
 
             <div className="post-content-body-content-content">
               <p>
-                I'm a Design Engineer and a{" "}
-                <a href="https://soundcloud.com/animistttt" target="_blank">
-                  musician
-                </a>
-                . I love making shoegazey alternative rock and using code as a
-                creative material to reveal novel, useful insights about how
-                people work in order to converge on the right thing to build.
+                I'm a Design Engineer who uses code as a creative material to
+                reveal novel, useful insights about how people work in order to
+                converge on the right thing to build.
               </p>
 
               <p>
