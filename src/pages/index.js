@@ -34,7 +34,7 @@ const BlogIndex = ({ data }, location) => {
             >
               Design Engineer
             </a>{" "}
-            who uses code to rapidly answer product and design questions, helping teams build the right thing, saving them time and money.
+            who uses code to rapidly answer product and design questions, helping teams build the right thing, saving them time and resources.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}
