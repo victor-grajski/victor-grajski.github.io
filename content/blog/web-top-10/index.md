@@ -11,7 +11,7 @@ category: Design Engineering
 order: 6
 color: "#000000"
 overview: "Under construction!"
-role: Design Engineer
+role: Senior Design Engineer
 duration: "3 months"
 year: 2023
 tools: "React, GraphQL, Next.js, Vercel, Figma"
