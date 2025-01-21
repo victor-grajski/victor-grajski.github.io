@@ -8,7 +8,7 @@ description: Save recommendations on Apple Music
 thumbnail: ./thumbnail.png
 thumbnailTransparent: ./thumbnail-transparent.png
 category: Product Design/UX Engineering
-order: 2
+order: 1
 color: "#000000"
 overview: "Listeners receive recommendations from friends and applications like Apple Music often, yet equally often, they forget to follow up on those recommendations. Want to Listen gives listeners a dedicated space to save recommendations for later on Apple Music. Over the course of two weeks, I researched Apple Media Products applications, determined a target user and scenario, designed in Sketch, and built a functional prototype using Swift and SwiftUI."
 role: Design Engineer, Product Designer
