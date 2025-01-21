@@ -4,7 +4,7 @@ title: Peacock - Web Top 10
 date: "2025-01-21"
 categories: jekyll update
 permalink: "/web-top-10"
-description: Adding an appropriate level of interactivity to streaming
+description: Under construction!
 thumbnail: ./thumbnail.png
 thumbnailTransparent: ./thumbnail-transparent.png
 category: Design Engineering
