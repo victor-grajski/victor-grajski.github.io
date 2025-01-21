@@ -1,0 +1,22 @@
+---
+layout: post
+title: Peacock - Web Top 10
+date: "2025-1-21"
+categories: jekyll update
+permalink: "/web-top-10"
+description: Adding an appropriate level of interactivity to streaming
+thumbnail: ./thumbnail.png
+thumbnailTransparent: ./thumbnail-transparent.png
+category: Design Engineering
+order: 4
+color: "#000000"
+overview: "Under construction!"
+role: Design Engineer
+duration: "3 months"
+year: 2023
+tools: "React, GraphQL, Next.js, Vercel, Figma"
+link: "https://peacock-prototype-web.vercel.app/browse/web"
+linkSource: "View Prototype (protected)"
+shortDescription: "Under construction!"
+noIndex: true
+---
