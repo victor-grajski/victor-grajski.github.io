@@ -8,14 +8,14 @@ description: Under construction!
 thumbnail: ./thumbnail.png
 thumbnailTransparent: ./thumbnail-transparent.png
 category: Design Engineering
-order: 6
+order: 4
 color: "#000000"
 overview: "Under construction!"
 role: Design Engineer
 duration: "3 months"
 year: 2023
 tools: "SwiftUI, Swift, GraphQL"
-link: "https://youtube.com/shorts/QaTvidNEXBk"
+link: "https://youtube.com/shorts/BS4ZFvd-cPM"
 linkSource: "View Demo Video"
 shortDescription: "Under construction!"
 noIndex: true
