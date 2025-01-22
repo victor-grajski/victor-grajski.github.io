@@ -25,7 +25,7 @@ const BlogIndex = ({ data }, location) => {
         <header className="page-head">
           {/* <h1 className="page-head-title">Hi, I'm Victor Grajski.</h1> */}
           <h6>
-            I'm a{" "}
+            As a{" "}
             <a
               className="hero-link"
               target="_blank"
@@ -34,7 +34,7 @@ const BlogIndex = ({ data }, location) => {
             >
               Design Engineer
             </a>{" "}
-            who uses code to rapidly answer product and design questions, helping teams build the right thing, saving them time and resources.
+            I use code to rapidly answer product and design questions, helping teams build the right thing, save resources and empower users.
           </h6>
           {/* <h6>{data.site.siteMetadata.description}</h6> */}
           {/* <h7>Fall 2020 portfolio pieces forthcoming!</h7> */}
