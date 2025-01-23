@@ -56,6 +56,16 @@ const Layout = props => {
               </li>
               <li className="nav-elements" role="menuitem">
                 <a
+                  href="https://soundcloud.com/animistttt"
+                  title="SoundCloud"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  SoundCloud
+                </a>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <a
                   id="last-nav-element"
                   href="https://drive.google.com/file/d/17GGOg23anTjoax0ojG-5xwkyPcajXQMv/view?usp=sharing"
                   title="Resume"
